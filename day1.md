@@ -12,7 +12,9 @@
 #### *Problem Description :*
 ***Given an array of integers, calculate the fractions of positive, negative and zero numbers in the array.***
 #### Approach :
-Use counters for positive, negative and zero numbers in the array. Loop through the array iteratively using a `for` loop and use conditional `if` statements to increment the counters set up for counting the positive, negative and zero numbers in the array. The output is printed by dividing the counters set up for positive, negative and zero numbers after iterating through the array.
+- Initialize counters for positive`p`, negative`n` and zero`z` numbers in the array.
+- Loop through the array iteratively using a `for` loop and use conditional `if` statements to increment the counters set up for counting the positive, negative and zero numbers in the array.
+- The output is printed by dividing the counters set up for positive, negative and zero numbers after iterating through the array.
 
 #### Pseudocode :
 ```
