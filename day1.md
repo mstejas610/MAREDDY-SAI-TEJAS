@@ -2,15 +2,46 @@
 ## 21st November 2024
 ---
 ## Hackerrank two problems soleved
-1. ~~Problem 1:~~ [Plus Minus](https://www.hackerrank.com/challenges/one-week-preparation-kit-plus-minus/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=preparation-kits&playlist_slugs%5B%5D=one-week-preparation-kit&playlist_slugs%5B%5D=one-week-day-one)
+- [x] ~~Problem 1:~~ [Plus Minus](https://www.hackerrank.com/challenges/one-week-preparation-kit-plus-minus/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=preparation-kits&playlist_slugs%5B%5D=one-week-preparation-kit&playlist_slugs%5B%5D=one-week-day-one)
 
-2. ~~Problem 2:~~ [Mini-Max Sum](https://www.hackerrank.com/challenges/one-week-preparation-kit-mini-max-sum?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=preparation-kits&playlist_slugs%5B%5D=one-week-preparation-kit&playlist_slugs%5B%5D=one-week-day-one)
+- [x] ~~Problem 2:~~ [Mini-Max Sum](https://www.hackerrank.com/challenges/one-week-preparation-kit-mini-max-sum?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=preparation-kits&playlist_slugs%5B%5D=one-week-preparation-kit&playlist_slugs%5B%5D=one-week-day-one)
 
-- [x] <mark> Problem 3:[Time Conversion](https://www.hackerrank.com/challenges/one-week-preparation-kit-time-conversion/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=preparation-kits&playlist_slugs%5B%5D=one-week-preparation-kit&playlist_slugs%5B%5D=one-week-day-one)</mark>
+- [ ] <mark> Problem 3:[Time Conversion](https://www.hackerrank.com/challenges/one-week-preparation-kit-time-conversion/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=preparation-kits&playlist_slugs%5B%5D=one-week-preparation-kit&playlist_slugs%5B%5D=one-week-day-one)</mark>
 
 ### <span style = "color: Purple;">Problem 1: Plus Minus</span>
 #### *Problem Description :*
 ***Given an array of integers, calculate the fractions of positive, negative and zero numbers in the array.***
+#### Approach :
+Use counters for positive, negative and zero numbers in the array. Loop through the array iteratively using a `for` loop and use conditional `if` statements to increment the counters set up for counting the positive, negative and zero numbers in the array. The output is printed by dividing the counters set up for positive, negative and zero numbers after iterating through the array.
+
+#### Pseudocode :
+```
+initialize p,n,z
+## These are the counters set up for counting the positive, negative and zero numbers in the array.
+for i in range(len(arr)):
+  if arr[i] > 0:
+    p += 1
+  elif arr[i] < 0:
+    n += 1
+  else :
+    z += 1
+```
+
+### Problem 2: Mini-Max Sum
+#### Problem Description :
+***Given five positive integers, find the minimum and maximum values that can be calculated by summing exactly four of the five integers.***
+
+#### Approach:
+Use the `sort` and `sum` functions to Sort the array and find out the sum of the elements in the array. Now from the sorted array subtract the first and last elements to return the values `min`sum and `max`sum
+
+#### Code :
+```
+sort.arr()
+sum = sum(arr)
+min = sum - arr[4]
+max = sum - arr[0]
+return min,max
+```
 
 ---
 
