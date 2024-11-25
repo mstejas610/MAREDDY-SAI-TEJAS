@@ -2,6 +2,8 @@
 ## 22nd November 2024
 ----
 ## HackerRank problems
+- Problem 1 : Time Conversion
+- Problem 2 : Compare the Triplets
 
 ### Problem 1 : Time Conversion
 #### Problem Description :
