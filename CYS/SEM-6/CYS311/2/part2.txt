@@ -1,0 +1,4053 @@
+Module 02 Page 138
+
+Computer Hacking Forensic Investigator Copyright © by EC-Council
+All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator Exam 312-49
+Computer Forensics Investigation Process
+
+After securing the scene, the (CFP) has to
+prepare a sketch of the crime scene
+
+This sketch should include all details about the and their
+within the office area
+
+Copyright © by All Rights Reserved. Reproduction is Strictly Prohibited.
+
+A sketch conveys the measurement relationship between the crime scene and the evidence
+found. The sketch explains the data in the documented photos and videos. Sketches can also
+portray the positions of the camera as well as the photographer.
+
+The points to remember while sketching the scene are:
+
+» After securing the scene, the computer forensic professional (CFP) has to prepare a
+sketch of the crime scene.
+
+» This sketch should include all details about the objects present and their locations
+within the office area.
+
+» As with photographs, forensic professionals prepare many sketches of the complete
+scene, all the way down to the smallest piece of evidence.
+
+» After creating an accurate scene sketch, the CFP should sketch the top of the computer
+desk, specifying pieces of evidence.
+
+Module 02 Page 139 Computer Hacking Forensic Investigator Copyright © by EC-Council
+All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator
+Computer Forensics Investigation Process
+
+_ Note Taking CHET
+
+Crime Scene Checklist
+
+4) Date/Time of Call-out
+O) Name
+O Number
+
+4) Source of Call-out
+
+U Incident Type
+
+Q) Date/Time of Arrival
+
+OU Physical Location/Address
+
+Crime Scene Checklist
+
+OQ Other Officers at Scene
+— Crime Scene Log
+
+Paramedics at Scene
+
+Medical Examiner at Scene
+
+Media at Scene
+O Victim(s)Responsible Party
+— Name
+- DOB
+Address.
+
+Exam 312-49
+
+O Type of Location O Witnesses
+OQ Weather Conditions Name
+Q Lighting Conditions DOB
+
+— Address
+— Natural -
+O Vehicles at Scene
+
+Make/Model'Color‘License Plate Number
+
+Location
+
+— Artificial
+U Contact Person at Scene (scene commander)
+
+— Name, Rank, Serial Number Damage
+
+Copyright © by . All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer crime scene investigation requires significant effort. The investigation effort varies
+according to the situation, and without a checklist, it is impossible to remember all the findings
+of the computer crime investigation. The investigator uses the checklist to note down the
+findings of the digital evidence search, collection, and preservation processes at the crime
+scene.
+
+Source: htto://www.lawtechcustompublishing.com
+
+Module 02 Page 140 Computer Hacking Forensic Investigator Copyright © by EC-Council
+All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator
+Computer Forensics Investigation Process
+
+Exam 312-49
+
+Note Taking
+
+Gime Scene Checklist
+
+O Evidence Finder’Recorder
+OQ Search Warrant
+
+QO Evidence’ Exterior
+
+Point of Entry
+
+Location, type, condition
+
+Tire and Footwear Impressions
+
+Description, location, direction of travel
+
+Expended Cartridge Cases
+Description
+Make
+
+Location
+
+Bloocdstains
+
+Type, location, direction
+- Latent Prints
+Location, orientation
+Known Samples
+
+Type and location
+
+(Conta| CHL
+
+Crime Scene Checklist
+
+— Other
+
+Location, orientation
+Known Samples
+Type and location
+
+— Other
+
+Description, type, location
+
+O Photographs
+
+- Photo-Log
+
+— Point of viewCamera position
+Subject
+Overall wide-angle view
+Medium View
+Close-up view
+Scale
+
+Copyright © by . All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Module 02 Page 141
+
+Computer Hacking Forensic Investigator Copyright © by EC-Council
+All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator Exam 312-49
+Computer Forensics Investigation Process
+
+Computer Forensics Investigation
+Methodology
+
+C\HFI
+
+Search and
+Seizure
+
+al
+
+Data Analysis
+
+Documentation
+and Reporting
+
+Copyright © by BG-feanell. All Rights Reserved. Reproduction is StrictlyProhibited.
+
+The investigators should have keen knowledge of all the devices that could have played part in
+transmitting the attack data to the victim device. They should be able to search for all the
+involved devices and seize them in a formal manner in order to analyze them for evidential
+data.
+
+Module 02 Page 142 Computer Hacking Forensic Investigator Copyright © by EC-Council
+All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator Exam 312-49
+Computer Forensics Investigation Process
+
+acceptable-usage policy
+monitoring activities
+consent
+
+There are instances when the user is present and consent from the user is required
+
+It should never be taken as generally acceptable for system administrators to conduct
+unplanned and random
+
+Incases such as this, appropriate forms for should be used and must be
+carried in the
+
+Copyright © by All Rights Reserved. Reproductions Strictly Prohibited.
+
+Consent, in computer forensics investigation, refers to the process of obtaining formal
+permission from the owner of the victim organization or an individual owning the target system
+to perform a thorough investigation. A written consent from the authority is enough to start
+the investigation and search process.
+
+At the time of consent, the investigators should use properly written banners with suitable use
+policies and get them signed from the owner of the evidence scene or devices. If you have a
+properly worded banner and a suitable use policy informing users of monitoring activities and
+how to use the information collected from monitoring activities, the consent burden will suffice
+in a majority of cases.
+
+There are instances when the user is present and has to provide consent as the hardware user.
+It should never be a general permission for system administrators to conduct unplanned and
+random monitoring activities.
+
+Use appropriate forms for the jurisdiction and carry these documents in the grab bag to protect
+from any harm or damage. Monitoring activities related to the consent should be part of a well-
+documented procedure in the obtained consent.
+
+Module 02 Page 143 Computer Hacking Forensic Investigator Copyright © by EC-Council
+All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator
+Computer Forensics Investigation Process
+
+Exam 312-49
+
+Sample of
+
+CONSENT TO SEARCH ELECTRONIC MEDIA
+
+1, _, hereby suthoetze .
+
+identified himselt / herself as a law enforcement otter, and any othar person[s),
+including But not lined to a computer ferendic examiner, he / she may desionats to
+seaiet him (her, 10 remove, lake possession of and or conduct a complete seanch
+of the following: coenpuber systems, electronic data slorage devices, computer dala
+storage disketias, CO-AOMS, of any other dectronie equipment capable of storing,
+retrieving, processing and / of accessing data,
+
+The aforementioned equipment will be éubject to date duplication / imaging and a
+foremeic analysis tor any data pertinent to te incident / criminal investigation.
+
+i give this consent to search eely and voluntarily without fear, threal, coercion of
+promiaes of any kind and with full knowledge af my constitutional right to refuse te
+give ey consent for the remaval and /o¢ search of the alorementioned equipment /
+data, which | hereby waive. [arn also aware thal if | wish te exercise thig right of
+refusal a any Gime dusting the seizure and of seaich of the equigment / cata, it wil
+be PE EeChC
+
+This congent to search is given by me Bis
+
+am! pm.
+
+Form 1.1 Voluntary Consent to Search
+
+Voluntary Consent to Search
+
+I, do hereby, freely, voluntarily and without threat,
+
+pressure of coercion of any kind, consent toa warrantless search of my
+
+(Location and description of premises to be searched), by
+
+Tepresentatives of (Police Department or Agency) and
+
+individuals in their company. These representatives are authorized by mc to seize
+any items, matenals or olher property which they may deem to be of possible
+
+evidentiary value.
+
+Witness Signature of person consenting to search
+
+Witness Relationship to Premises being searched
+
+DOB SSN
+Date Time.
+
+Module 02 Page 144
+
+Copyright © by . All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator Copyright © by EC-Council
+All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator Exam 312-49
+Computer Forensics Investigation Process
+
+Depending on the legislation in the jurisdiction, a signature (or two) mayor
+© may not be required to certify collection of evidence
+
+Typically one witness signature is required if it is the forensic analyst or law
+enforcement officer conducting the seizure ©
+
+Where two signatures are required, guidance should be sought to determine
+© who the second signatory should be
+
+Whoever signs as a witness musthavea clear understandingof that role,
+and may be called upon to provide a witness statement or attend court C
+proceedings
+
+Copyright © by - All Rights Reserved. Reproductionis Strictly Prohibited.
+
+A witness is a person who is present while signing a document or agreement and testifies that
+the parties mentioned in the agreement have voluntarily signed for it. Depending on the
+legislation in the jurisdiction, the agreement or contract needs the signatures of one or two
+witnesses.
+
+Typically, one witness signature suffices if the forensic analyst or law enforcement officer is
+performing the seizure. When the case requires two witness signatures, seek guidance to
+determine the second signatory.
+
+The witness signature verifies that the information in the consent form and other written
+documents are correct and have also been explained to and understood by the other party, and
+they had given the consent voluntarily.
+
+Whoever signs as witness should have a clear understanding of their role and may have to
+provide a witness statement or attend court.
+
+Module 02 Page 145 Computer Hacking Forensic Investigator Copyright © by EC-Council
+All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator
+Computer Forensics Investigation Process
+
+Exam 312-49
+
+ACTIONS
+
+CHECK DF
+PERFORMED WELL
+
+1. Sets the person at case
+
+© exolains reason far lating statement
+
+* oxclaing what may bo required of wittess
+
+§ axoling thé importance of telling the teeth
+
+® paspects the legal nghis af the indvidual being inbardewed
+
+2, Ensures the enviroanssnt ts appropriace 10 on interview
+
+F nounescassary police officers prasant
+
+© iftereenes one individual al a Ge
+
+* demonstrates an understanding of the impartance
+Of astatthehen isl
+
+© adapts procedures and techniques 35
+SPST ibis mh ithe rdewity dears vache valet
+
+3. Takes waritian statement when appropriate
+
+© oasis wine ss bo vile or type
+* yee of lypee The statement ening the witness en words
+
+4. Asks the individual to provide a recoded statement
+when appropriate
+
+© ask the winess 10 make a slavement under oath (if necessary)
+© males audioiaded recoring of the statement witon possibla
+
+5. is receptive to indivichus ls ‘offering information
+fective Hebert
+
+6. Atlenidd te te individuals piydical nadds
+te, Iood, deink and rest periods |
+
+Copyright © by
+
+| ¥. Kesseps a rescenrdl:
+| # dogs not offerte kes information “ofl tha racont™
+
+[e. Obtains basic ideenitying data:
+© data (a.g. Saturcay, 25th Sapt. 1595)
+tims stared
+locauon
+rami
+} making address and residancs
+| dsta af Birth
+
+|S. Ditlarentiaies bernan witness oid wanted sratameants
+
+|
+(10. Curing interview:
+
+® listens ofecteely
+
+* msimans momento of dalogue
+| | paliesily vewies 10 anid al atcureie ulenealion
+) # kaaps stalament saquantial (f possible)
+
+jaa. Uses questions for clarilication and ne-comds answers
+
+Fa. Has wi — = Te — EE
+
+|43, Has witness sign the sateen and winston the signanure
+
+\44, Aceunately ane quickly (nanserilen anal snatemerts
+
+. All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Module 02 Page 146
+
+Computer Hacking Forensic Investigator Copyright © by EC-Council
+
+All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator Exam 312-49
+Computer Forensics Investigation Process
+
+Identify the persons present at the crime scene, conduct individual interviews,and note everyone's physical eC
+position and his or herreason for being there
+
+As part of the investigation process, first determine whether the suspect has committeda crime or has violated any
+departmental policies
+
+Adhering to departmental policies and applicable laws, collect information and gather evidence from individuals
+
+suchas: eC
+
+Actual holders and/or users of any electronic
+devices present at the crime scene
+
+\Web mail and social Usemames and Intemet service providers
+networking website account
+information
+Passwords required to accessthe
+y—O system, software, or data
+
+Any off-site data storage QG-——___,
+eH Purpose of using the system
+
+Documents explaining the
+
+hardware or software
+
+installed on the system
+Automatic applications in use
+
+Unique security schemes or
+destructive devices
+
+Copyright © by All Rights Reserved. Reproductions Strictly Prohibited.
+
+When preparing a case, Computer Forensic Professionals (CFPs) follow a standard system
+analysis to solve a problem. They start their investigation by collecting evidence and conducting
+preliminary interviews. As a part of their preliminary investigation, they enquire about all those
+who were present on the site at the time of the offense. After identifying the persons present
+at the time of the crime, they conduct individual interviews and recognize all personnel
+(witnesses and others) available at the crime scene and note down their position at the time of
+entry and their reason for being there.
+
+As part of their investigation process, CFPs first determine whether the suspect has committed
+a crime or has violated any departmental policies. Usually, departments establish certain
+policies regarding the usage of computers.
+
+Consistent with departmental policies and applicable laws, the CFP gathers evidence and
+collects information from individuals, such as:
+
+= Actual holders or users of any electronic devices present at the crime scene.
+=» Usernames and Internet service provider.
+
+= Passwords required to access the system, software, or data.
+
+= Purpose of using the system.
+
+» Automatic applications in use.
+
+= Any offsite data storage.
+
+Module 02 Page 147 Computer Hacking Forensic Investigator Copyright © by EC-Council
+All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator Exam 312-49
+Computer Forensics Investigation Process
+» Unique security schemes or destructive devices.
+
+= Documents detailing installation of a hardware or software on the system.
+
+» Any offsite data storage.
+= Web mail and social networking website account information.
+
+lf the evidence gathered by the CFP suggests that the suspect has committed a crime, he or she
+will produce that evidence in court. If the evidence suggests that the suspect has breached
+company policy, the CFP will hand over the evidence at the corporate enquiry.
+
+Module 02 Page 148 Computer Hacking Forensic Investigator Copyright © by EC-Council
+All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator Exam 312-49
+Computer Forensics Investigation Process
+
+Conducting
+
+(Cont’d)
+
+If the suspect is present at the time of the search and seizure, the incident manager or the
+laboratory manager may consider asking some questions. However, they must comply with
+the relevant human resources or legislative guidelines with regard to their jurisdiction
+
+During an initial interview, suspects are often taken off guard, having been given little time
+
+to create a false story. This means that they will often answer questions suchas, “What are
+the passwords for the account?” truthfully
+
+If the system administrator is present at the time of the initial interview, he or she may help
+provide important information such as how many systems are involved, whois associated
+with a particular account, and what the relevant passwords are
+
+A person having physical custody of evidence is responsible for the safety and security of
+that evidence
+
+Whenever possible, evidence must be secured in such a way that only a person with
+complete authority is allowed access
+
+Oo 0 0 0 10
+
+Copyright © by All Rights Reserved. Reproductions Strictly Prohibited.
+
+Module 02 Page 149 Computer Hacking Forensic Investigator Copyright © by EC-Council
+All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator
+Computer Forensics Investigation Process
+
+Exam 312-49
+
+Seizure
+
+the Search and
+
+incident
+
+legislation
+
+©);
+
+A search and seizure plan should
+contain the following details:
+
+1. Description of the incident
+
+2. Incident manager dealing with the €
+
+3. Case name or title of the incident
+
+. Location of the incident
+
+5. Applicable jurisdiction and relevant €
+
+6. Location of the equipment to be
+seized:
+
+Structure type and size
+
+® Where the computer(s) are located
+(all in one place, spread across the
+building or floors)?
+
+& Who was present at the incident?
+
+& Whether the location is potentially
+dangerous?
+
+=
+
+Copyright © by
+
+All Rights Reserved. Reproductions Strictly Prohibited.
+
+The investigators need to design a strategic process to conduct the search and seizure process
+after analyzing the crime scene. This will help them distribute tasks between the team
+members to complete the seizure and allow the team to use time and tools in a well-defined
+
+manner.
+
+Module 02 Page 150
+
+Computer Hacking Forensic Investigator Copyright © by EC-Council
+All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator
+Computer Forensics Investigation Process
+
+Exam 312-49
+
+the Search and
+
+Module 02 Page 151
+
+Seizure (Cont’d)
+
+ri
+i 7. Details of what is to be seized .\
+(make, model, location, |D, etc.):
+
+@ Type of device and number
+
+@ if the seized computers were
+mnning or powered down
+
+@ Whether the computers were
+networked? ff so, what type of
+network, where data is stored on
+the network, where the backups
+are held, if the system
+administrator is cooperative, if it is
+necessary to take the server
+down, and the business impact of
+this action
+
+—_
+
+. Other work to be performed
+at the scene [e.g., full search
+and evidence required)
+
+9. Search and seizure type
+(overt/covert)
+
+10. Local management
+involvement
+
+Copyright © by
+
+\
+
+. All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator Copyright © by EC-Council
+All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator Exam 312-49
+Computer Forensics Investigation Process
+
+of the Scene C HFI
+
+Once the forensics team has arrived at the scene and unloaded their equipment, they will move
+to the location of the incident and try to identify any evidence
+
+A perpetrator may attempt to use a self-destruct program or reformat the storage media upon
+the arrival of the team
+
+If a suspected perpetrator is using the system, an investigator should pull the power cord
+immediately
+
+Isolate the computer system (whether it is a workstation, a standalone, or network server) or
+other forms of media so that cigital evidence will not be lost
+
+In many cases, computer systems are backed up on a regular basis. If perpetrators erase files
+from the primary storage device, these files may still remain on the backup storage media
+
+Copyright © by All Rights Reserved. Reproductions Strictly Prohibited.
+
+Once the forensic team has arrived at the scene and unloaded their equipment, they will move
+to the scene of the incident and try to identify any evidence. A perpetrator may use a Sself-
+destruct program or reformat the storage media upon the arrival of the team. To account for
+such possibilities, pull the power cord connected to the central processing system immediately.
+
+Identify, collect, label, preserve, and protect all digital evidence at the scene.
+
+Isolate the computer system (workstation, standalone, or network server) or other
+forms of media so that digital evidence will not be lost.
+
+In many cases, computer systems create backups on a regular basis. Though an attacker
+might delete files from the primary storage media, these files could still exist on the
+backup storage media.
+
+Include a search and seizure evidence log containing brief descriptions of all computers,
+devices, or media located during the search for evidence.
+
+Make a note of the locations on the crime scene sketch as well.
+
+Photograph and sketch the crime scene, along with a detailed account of all computer
+evidence.
+
+Document everything at the crime scene and the location where the evidence is found.
+
+Pack and transport the digital evidence safely.
+
+Module 02 Page 152 Computer Hacking Forensic Investigator Copyright © by EC-Council
+
+All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator
+Computer Forensics Investigation Process
+
+Exam 312-49
+
+Seizure
+
+The following are the two types of search warrants:
+
+for Search and
+
+rae
+
+Electronic Storage Device Search Warrant Service Provider Search Warrant
+
+J This allows the first responder to search and J lfthe crime is committed through the Internet,
+seize the victim's computer components the first responder needs information about the
+such as hardware, software, storage devices, victim's computer fromthe service provider
+and documentation
+
+a This warrantallows the firstresponderto get the
+victim’s computer information such as service
+records, billing records, and subscriber
+information from the service provider
+
+Copyright © by All Rights Reserved. Reproductionis Strictly Prohibited.
+
+The investigating officer or first responder must perform the investigation process in a lawtul
+manner; otherwise, a court of law will reject the collected evidence. The first responder needs a
+search warrant for search and seizure of the electronic devices. A search warrant is a written
+permission from a concerned authority that mentions the electronic devices that the
+investigating officer or the first responder can search and seize. The court of law can also issue
+a search warrant. A magistrate may issue the search warrant if the first responder has
+convinced the magistrate of evidence of a crime.
+
+Search warrants for electronic devices focus on the following:
+
+Electronic storage device search warrant
+
+An electronic storage device search warrant allows the first responder to search and seize the
+victim’s computer components such as:
+
+» Hardware
+
+= Software
+
+*" Storage devices
+
+= Documentation
+
+Module 02 Page 153
+
+Computer Hacking Forensic Investigator Copyright © by EC-Council
+All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator Exam 312-49
+Computer Forensics Investigation Process
+
+Service provider search warrant
+
+lf the crime involves the Internet, the first responder needs information about the victim’s
+computer from the service provider end. A service provider search warrant allows first
+responders or investigators to consult the service provider and obtain the available victim’s
+computer information. First responders can obtain the following information from the service
+provider:
+
+» Service records
+» Billing records
+
+» Subscriber information
+
+Module 02 Page 154 Computer Hacking Forensic Investigator Copyright © by EC-Council
+All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator Exam 312-49
+Computer Forensics Investigation Process
+
+A search warrant is a written order issued by a judge that directs a law enforcement officer to search
+for a particular piece of evidence ata particular location
+
+To carry out an investigation, a search
+warrant from a court is required
+
+lfagents remove the system fromthe
+premises to conduct the search, shoul
+
+they return the computer system, or
+copies of the seized data, toits Ge
+
+owner/user before trial?
+
+A Warrants can be issued for an entire
+
+company, a floor, room, device,
+e * car, house, or any company-
+
+owned property
+
+ay
+Is it practical to search the computer Can ee
+system on site, or must the ‘ol , Where will this search be
+examination be conducted at a field conducted?
+office or laboratory?
+
+Copyright © by All Rights Reserved. Reproductions Strictly Prohibited.
+
+An investigator can perform the investigation once investigation planning is over. It is advisable
+to perform some legal formalities, such as obtaining a search warrant to perform the
+investigation from the court. Successful computer search warrants should include the
+particulars of the objects that investigators want to seize, and the search strategy used in the
+
+investigation. These steps help the examiner in focusing and executing the search in a better
+way.
+
+Depending upon the situation of the case, the warrant can include:
+= Entire company or part of the company’s property
+*" Floor
+» Room
+" Carorany Device
+
+» House
+
+The proposed warrant is a one-page form along with attachments incorporated by reference,
+which indicates the person or things the investigators need to seize and the place they will
+search. If the investigators mention the cause of search, elements that come under search, and
+the information about the place of search properly, then the judge will sign the warrant. Under
+the federal rules of criminal procedure, the warrant is valid for ten days from the day of signing.
+
+Module 02 Page 155 Computer Hacking Forensic Investigator Copyright © by EC-Council
+All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator
+Computer Forensics Investigation Process
+
+Exam 312-49
+
+BA aT TE LEP
+
+PL eS
+
+Hie areata Bie
+Vermeer, Faking
+
+ee
+
+Tommie
+on premen bay
+
+(ar wimerfamam ve, wesc bev: ae! iecerpmnaal sees
+
+few mite hime fh erected fie ancl ate Oe heer
+She 0 mee aes ee oe a —e
+ho a ay Ere
+
+my
+fe meget et mame eta Demers rn are Pato
+
+Fr acme! on on rte odo al mai a pt Lee
+
+Dewees keer, ul bore ¢ a PTH
+
+Murch D8 Lor? gi Ger
+Date
+
+PT RELLAY ARMOLG
+Liwned Soman Miagpemrer basa
+
+————
+
+United States District Court
+WTSTIRN BATRNCT OP WesrneTOR
+
+of Search Warrant
+
+ay
+
+! +r
+
+Heed B ear
+
+ane oe eel eee
+APPLIC ATEGS-A BBD
+POR SEARCH WARRAST
+
+WH PME Oe eae pa
+
+Temas Nene Brin Sa ed ee ree ke ee Pe le a eee
+
+et The ees That Fo licen reo mee ree oe pre ee property. mares
+ee
+
+ereiera rd divas mums a, etter, teria faring veGjsverig ol marten Fina rama, nel tha pall a a
+ie at Tew ha ha id Gm Wind Maid and Dhan TERS AM TEE, UNF, LEMON, CEP all DGD. Tan in
+
+femme a Teel a ae Ce eh ee Mer etcetera:
+
+ray te
+u if bE SEE
+
+emaras Pon
+fais ooo
+
+a
+ep acd Siete
+
+Se eet
+
+ieee eral Tech of denial fees
+
+at
+
+Module 02 Page 156
+
+Sqpretoce of Fobra
+
+BRISTOL MAGISTRATES COURT — (1013)
+
+The latrmution of
+
+ai oe eet Peskin: or ot .
+et ol os ec emit k i
+
+To tee etd serch pecrmiere
+af
+
+Teme For
+
+Ayliowirg la hemeby prom for orp cometabbe |asteunmaatbed by]
+
+PPE SOROS oF
+ip
+
+* a
+fo Stren
+r
+
+re
+
+bei he eel pred ae ld Pe oe Pee Ob et ef bas warrant
+
+apd wo onc bor nbn artacice on perrecen: ie eeeijer a ECR,
+
+above applica ee
+
+CERTIFIED TALE COPY
+AL
+
+GOOLE Oey
+
+Copyright © by
+
+All Rights Reserved. Reproductionis Strictly Prohibited.
+
+Computer Hacking Forensic Investigator Copyright © by EC-Council
+All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator Exam 312-49
+Computer Forensics Investigation Process
+
+Searches
+
+In certain situations, a search without a warrant may be allowed:
+
+CO
+=
+
+Copyright © by . All Rights Reserved. Reproduction is Strictly Prohibited.
+
+The court of law has allowed the investigators to perform searches without a warrant, but
+under certain circumstances, such as when the delay in obtaining a warrant may lead to the
+destruction or manipulation of evidence and hamper the investigation process. The following
+pronouncements of different U.S. courts have set the precedents for searches without a
+warrant:
+
+“When destruction of evidence is imminent, a warrantless seizure of that evidence is justified if
+there is probable cause to believe that the item seized constitutes evidence of criminal
+activity.” United States v. David, 756 F. Supp. 1385, 1392 (D. Nev. 1991).
+
+Agents may search a place or object without a warrant or probable cause, if a person with
+authority has consented. Schneckloth v. Bustamonte, 412 U.S. 218, 219 (1973).
+
+Module 02 Page 157 Computer Hacking Forensic Investigator Copyright © by EC-Council
+All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator Exam 312-49
+Computer Forensics Investigation Process
+
+In order to protect the staff and preserve evidence such as fingerprints, investigators
+should follow these health andsafety precautions:
+
+Health and safety considerations
+should be followed at all stages of
+the investigation by everyone
+involved
+
+All elements of an agency’s health
+
+w and safety plan should be clearly
+documented
+
+All forensics teams should wear
+
+protective latex gloves for all
+search and seizure on-site
+
+operations
+
+The health and safety program
+
+3) should be frequently monitored
+and documented by designated
+
+agency representatives
+
+Copyright © by All Rights Reserved. Reproductionis Strictly Prohibited.
+
+The health and safety issues are:
+=" Clearly document all elements of an agency’s health and safety plan.
+
+= Designated agency representatives should frequently monitor and document the health
+and safety program.
+
+=" Health and safety issues are important in all of the work carried out in all phases of the
+forensic procedures performed by the forensic analysts.
+
+=» Persons engaged in the inspection of different types of digital evidence should work
+according to the rules and policies of the agency.
+
+" All forensic teams should wear protective latex gloves for all searching and seizing
+operations onsite. This is to both protect the staff and preserve any fingerprints that
+may come handy in future.
+
+Module 02 Page 158 Computer Hacking Forensic Investigator Copyright © by EC-Council
+All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator
+Computer Forensics Investigation Process
+
+Exam 312-49
+
+Securing and Evaluating Electronic
+
+Crime Scene:
+
+The following checklist should be followed when securing and evaluating an electronic crime scene:
+
+@ Follow the policies of the legal authority for securing the crime scene
+
+@ Verify the type of the incident
+
+@ Make sure that the scene is safe for the responders
+
+@ Isolate other persons who are present at the scene
+
+® Locate and help the victim
+
+@ Verify any data that is related to the offense
+
+@ Transmit additional flash messages to other responding units
+
+@ Request additional help at the scene if needed
+
+Copyright © by All Rights Reserved. Reproductionis Strictly Prohibited.
+
+Module 02 Page 159
+
+Securing and Evaluating Electronic
+
+Crime Scene:
+
+Establish a security perimeter to see if the
+offenders are still present at the crime scene
+area
+
+Protect perishable data (e.g. pagers and
+caller 1D boxes) physically, and electronically
+
+Find telephone lines that are connected to
+devices such as modems, and caller |D boxes
+
+Observe the current situation at the scene,
+and record observations
+
+(Cont’d)
+
+Protect and preserve the evidence that
+is at risk of being easily lost
+
+Document, disconnect, and label
+telephone lines and network cables
+
+Protect physical evidence or hidden
+
+fingerprints that may be found on
+keyboards, mice, diskettes, and CDs
+
+Make sure that the devices that contain
+perishable data are secured, documented,
+and photographed
+
+Copyright © by All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator Copyright © by EC-Council
+All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator Exam 312-49
+
+Computer Forensics Investigation Process
+
+Computer Forensics Investigation c H Fy
+Methodology
+
+vA
+
+—) fe
+
+Search and Collect
+Seizure the Evidence
+
+Secure
+the Evidence
+
+Documentation
+and Reporting
+
+Copyright © by EG-Geanell. all Rights Reserved. Reproduction is StrictlyProhibited.
+
+Evidence is the crucial data that can help investigators in understanding the process of attack
+and tracing the attacker. Therefore, the investigators should know where they can find the
+evidence and how to gather it. This section will discuss the process of collecting evidence from
+
+various devices and media.
+
+Computer Hacking Forensic Investigator Copyright © by EC-Council
+
+Module 02 Page 160
+All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator Exam 312-49
+Computer Forensics Investigation Process
+
+Collect electronic devices or
+
+any other media found at the t*+7>
+crime scene ¢ To preserve the integrity
+of the physical evidence,
+
+witareata all the pieces of evidence
+a collected should be
+. handled carefully
+
+The physical evidence includes: <r-r-rx,
+
+@ Removable media
+
+® Cables
+
+© Publications
+
+6 All computer
+equipment, including
+peripherals
+
+8 Items taken fromthe
+trash
+
+8 Miscellaneous items
+
+The tag provides detailed :
+information about the «r*+s-*="
+evidence
+
+"a
+*
+
+‘ The objects identified as
+
+*
+VATATAT.
+
+evidence should be tagged
+
+Copyright © by All Rights Reserved. Reproductionis Strictly Prohibited.
+
+The victim computer and its elements are vital evidence sources in a computer forensic
+investigation. Collect all the electronic devices or any other media found at the crime scene.
+Seize storage devices like hard drives, memory cards, and removable media as they can have
+stored information. Handheld devices like smart phones, mobile phones, PDAs, digital
+multimedia devices, and GPS receivers can have valuable evidence information like Internet
+browsing history, e-mails, chat logs and friend lists, pictures and image files, financial records,
+etc.
+
+The peripheral devices themselves are potential evidence. Information stored in the device
+such as scanned or printed documents, incoming and outgoing phone and fax numbers, and
+information about device usage can all contain valuable evidence.
+
+To preserve the integrity of the physical evidence, handle all the pieces of evidence collected
+carefully. Tag all the objects identified as evidence, and mention all the required details on the
+tag, such as the time, date, investigator’s name, and control number.
+
+The physical evidence should include:
+» Removable media
+=" Cables
+* Publications
+» All computer equipment including peripherals
+=» ltems taken from the trash
+"= Miscellaneous items
+
+Module 02 Page 161 Computer Hacking Forensic Investigator Copyright © by EC-Council
+All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator
+Computer Forensics Investigation Process
+
+Exam 312-49
+
+Evidence Collection Form C H FI
+
+Submitting Agency :
+
+ltem Number :
+
+Time of Collection :
+
+Badge Number :
+
+Location where
+Collected :
+
+Victim's Full Name :
+
+Evidence Collection Form
+
+6 Case Number :
+
+fF Date of Collection :
+
+Collected by :
+
+Description of
+Enclosed Evidence :
+
+Type of Offences:
+Suspect's Full Name:
+
+Copyright © byEE-Lemnell. All Rights Reserved. Reproduction is StrictlyProhibited.
+
+—
+
+aos oo o
+
+j1 When an incident is reported where a computer is assumed to be a part of the incident, it
+is often the case that this is the
+
+The crime scene should be investigatedin a way that , keeping in mind
+the concept of the computer being at the middle of the circle
+
+Pieces of found at the crime scene should be first photographed, within
+documents, and then properly
+
+All collected clearly so that it can be easily identified later
+Markings on the evidence should, at the very least, include and
+the
+
+should be ; f : ,and , with no attempts
+
+to determine contents or status
+
+Collecting and Preserving
+Electronic Evidence
+
+Copyright © by BG-Gomnell. All Rights Reserved. Reproductionis StrictlyProhibited.
+
+Module 02 Page 162
+
+Computer Hacking Forensic Investigator Copyright © by EC-Council
+All Rights Reserved. Reproauction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator Exam 312-49
+Computer Forensics Investigation Process
+
+Dealing with
+
+When dealing with a powerec-on computer, the investigator should stop and think
+before taking any action
+
+The contents of RAM may contain vital information. For example, data that is
+
+encrypted on the hard disk may be unencrypted in the RAM. Also, running process
+information is stored in the RAM
+
+")
+
+All of this vital information will be lost when the computer is shut down or when the
+power supply is removed
+
+Ss 2
+
+lfa computer is switched on and the screenis viewable, the investigator should
+photograph the screen, and document the running programs
+
+lfa computer is on and the monitor shows ascreensaver, the investigator should
+
+move the mouse slowly without pressing any mouse button, and then photograph
+and document the programs
+
+Ea
+
+Copyright © by All Rights Reserved. Reproductions Strictly Prohibited.
+
+Electronic evidence is versatile in nature and easily broken during collection, preservation, and
+analysis. Therefore, act with caution to prevent damage.
+
+Module 02 Page 163 Computer Hacking Forensic Investigator Copyright © by EC-Council
+All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator Exam 312-49
+Computer Forensics Investigation Process
+
+Dealing with
+
+Q) U If the computer is switched off - leave it in that state
+
+UO If only the monitor is switched off and the display is blank:
+
+2 ®@ Turn the monitor on, move the mouse slightly, observe the LJ ]
+
+changes from a blank screen to another screen, and note the Peerseae
+changes
+© Photograph the screen
+Note: If the screen does not change on moving the mouse slightly, do not
+press any keys
+
+Copyright © by . All Rights Reserved. Reproduction is Strictly Prohibited.
+
+At this point of the investigation, do not change the state of any electronic devices or
+equipment:
+
+= lf itis switched OFF, leave it OFF
+lf a monitor is switched OFF and the display is blank:
+
+=" Turn the monitor ON, move the mouse slightly, observe the changes from a blank
+screen to another screen, and note the changes.
+
+= Photograph the screen.
+lf a monitor is switched ON and the display is blank:
+» Move the mouse slightly.
+
+= Ifthe screen does not change, do not perform any other keystroke.
+
+= Photograph the screen.
+
+Module 02 Page 164 Computer Hacking Forensic Investigator Copyright © by EC-Council
+All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator Exam 312-49
+Computer Forensics Investigation Process
+
+Dealing with
+7 C\HFI
+
+Unplug the network cable from the router and modem in order to prevent further attacks
+
+Photograph all devices connected to the victim’s computer, particularly the router and
+modem, from several angles
+
+lfany devices, such as a printer or scanner, are present near the computer, take photographs
+of those devices as well
+
+If the computer is turned off, leave it in that state, and if itis on, photograph the screen
+
+If the computer is on and the screen is blank, move the mouse slowly, and take a photograph
+of the screen
+
+Unplug all cords, and devices connected to the computer, and label them for identification
+later on
+
+Unplug the main power cord from the wall socket
+
+—_—
+—
+_.
+
+=
+_—.
+
+—
+—_—
+—
+—_
+
+—-_
+—_—.
+
+~~
+—,
+—
+
+Copyright © by All Rights Reserved. Reproductions Strictly Prohibited.
+
+If the victim’s computer has an Internet connection, the first responder must follow the
+following procedure in order to protect the evidence:
+
+*" Unplug the network cable from the router and modem because the internet connection
+can make it vulnerable to further attack.
+
+=" Do not use the computer for evidence search because it may alter or change the
+integrity of the existing evidence.
+
+= Photograph all the devices connected to the victim’s computer, especially router and
+modem, and take photographs of the computer from different angles. If any devices are
+present near the victim computer such as a printer or scanner, take photographs of
+those devices.
+
+= lf the computer is OFF, leave it OFF.
+= lf the computer is ON, take a photograph of the screen.
+
+= If the computer is ON and the screen is blank, move the mouse slowly and take a
+photograph of the screen.
+
+= Unplug all the cords and devices connected to the computer and label them for later
+identification.
+
+Unplug the main power cord from the wall socket.
+
+Pack the collected electronic evidence properly and place it in a static-free bag.
+
+Module 02 Page 165 Computer Hacking Forensic Investigator Copyright © by EC-Council
+All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator Exam 312-49
+Computer Forensics Investigation Process
+
+=" Keep the collected evidence away from magnets, high temperature, radio transmitters,
+and other elements that may damage the integrity of the evidence.
+
+=" Document all the steps that are involved in searching and seizing the victim’s computer
+
+for later investigation.
+
+Module 02 Page 166 Computer Hacking Forensic Investigator Copyright © by EC-Council
+All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator Exam 312-49
+Computer Forensics Investigation Process
+
+Dealing with
+
+When malware attacks a computer system, some files are created in the startup folder to
+run the malware program. Thefirst responder can get vital information from these files.
+
+ha
+
+Open any recently created documents from the startup or system32 folder in Windows and the
+rc.local file in Linux
+Document the date and time of the files |
+
+rec saa
+
+Examine the open files for sensitive data such as passwords or images
+
+Search for unusual MAC (modified, accessed, or changed) times on vital folders, and startup files
+
+Use the dir command for Windows or the ls command for Linux to locate the actual access times on
+
+Copyright © by . All Rights Reserved. Reproduction is Strictly Prohibited.
+
+When a computer crime occurs through malware attack, the malware creates some files. To run
+the malicious code, the malware creates some files in the startup folders for Windows
+operating systems and in the rc.local file folder for Linux operating systems. First responders
+can get vital information from these files. Use the Is command for the Linux operating system.
+
+Module 02 Page 167 Computer Hacking Forensic Investigator Copyright © by EC-Council
+All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator Exam 312-49
+Computer Forensics Investigation Process
+
+Operating System
+
+Q @Q
+
+@ Itis importantto shut down the system ina manner that will not damage
+the integrity of any files
+
+@ Different operating systems have different shutdown procedures
+
+Q
+
+ic Windows 10, Windows 8.1, ©)
+Windows 7, Windows Sever
+2012, Windows Server 2008
+
+Mac OSX
+Operating System
+
+Copyright © by All Rights Reserved. Reproductionis Strictly Prohibited.
+
+First responders have to make a vital decision at the time of shutting down the computer
+system because it is important to shut down the operating system in a proper manner so that it
+will not damage the integrity of the files. In most cases, the type of operating system is a key in
+making this decision. Different operating systems have different shutdown procedures. Some of
+the operating systems directly shut down by simply unplugging the power cord from the wall
+socket without losing any files. However, for some operating systems, first responders have to
+follow the predefined shutdown procedure; otherwise, data may be lost or the hard drives may
+crash.
+
+The first responder must follow the following procedures to shut down the operating system:
+
+Windows 7, Windows XP, Windows Vista, Windows Server 2008, Windows Server 2003
+operating system:
+
+= Take a photograph of the screen
+
+» lf any program is running, give a brief explanation
+
+= Unplug the power cord from the wall socket
+MAC OS X Operating System:
+
+=" Record the time from the menu bar
+
+* (ick Special Shutdown
+
+= Unplug the power cord from the wall socket
+
+Module 02 Page 168 Computer Hacking Forensic Investigator Copyright © by EC-Council
+All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator
+Computer Forensics Investigation Process
+
+Exam 312-49
+
+Copyright © by
+
+aph the computer and ancillary (connected) equipment
+: connectors behind the computer and individually label them
+
+and the respective ports to which they are connected
+
+or, keyboard, mouse, and CPU
+
+. All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Module 02 Page 169 Computer Hacking Forensic Investigator Copyright © by EC-Council
+
+All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator Exam 312-49
+Computer Forensics Investigation Process
+
+_ Evidence ‘HEL
+
+Steps that should be taken to preserve electronic evidence:
+
+Document the actions and changes Remove the power cord from the
+observed in the monitor, system, router or modem
+
+printer, and other electronic devices ;
+Remove any portable disks that are
+
+Verify whether the monitor is on, off, available at the scene to safeguard the
+or in sleep mode potential evidence
+
+J Remove the power cable if the device UW Apply tape on drive slots and power
+is off. Do not turn the device on connectors
+
+Take a photo of the monitor’s screen if Photograph the connections between
+the device is on the computer system and related
+
+bles, and label them individuall
+W Check dial-up, cable, ISDN, and DSL a ee
+
+connections Label every connector and cable
+
+| connected to peripheral devices
+
+Adpyright © by All Rights Rese ried Re productions StrictlyProbribited.
+
+The points to remember while preserving the electronic evidence are:
+
+Document the actions and changes that you observe on the monitor, system, printer, or
+other electronic devices.
+
+Verify that the monitor is ON, OFF, or in sleep mode.
+
+Remove the power cable, depending on the power state of the computer, i.e., ON, OFF, or
+in sleep mode.
+
+Do not turn ON the computer ifit is in the OFF state.
+
+Take a photo of the monitor screen if the computer is in the ON state.
+
+Check the connections of the telephone modem, cable, ISDN, and DSL.
+
+Remove the power plug from the router or modem.
+
+Remove any portable disks that are available at the scene to safeguard potential evidence.
+Keep the tape on drive slots and the power connector.
+
+Photograph the connections between the computer system and the related cables, and
+label them individually.
+
+Label every connector and cable connected to the peripheral devices.
+
+Module 02 Page 170 Computer Hacking Forensic Investigator Copyright © by EC-Council
+
+All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator
+Computer Forensics Investigation Process
+
+Exam 312-49
+
+Preserving
+
+(Cont’d)
+
+For handheld devices such as cell phones, tablets, and digital cameras:
+
+OC Do notturn the device on if it is off
+
+@) Leave the device as itis ifitis on
+
+Photograph the screen display of the
+device
+
+13 oo Make sure that the device is charged if
+
+label and collect all cables and transport
+them along with the device
+
+Copyright © by All Rights Reserved. Reproductions Strictly Prohibited.
+
+Module 02 Page 171
+
+UY Photographthe portable
+computerand connected
+equipment
+
+4 Record which cables are
+connected to which ports
+
+ Labelthe connectors
+individually
+
+J Removethe battery
+
+Copyright © by All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator Copyright © by EC-Council
+All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator
+Computer Forensics Investigation Process
+
+Exam 312-49
+
+Dealing with
+
+Powered-on portable
+computers should be handled
+in the same way as a A
+powered-on desktop PC
+
+4
+
+If itis not possible to remove the
+battery, pressing down on the
+
+power switch for 30 seconds will
+force the power off
+
+Module 02 Page 172
+
+lf a portable computer wakes
+up, the time and date at which
+this occurs must be recorded
+
+a
+
+wa
+
+Prior to pulling the power
+cable on a portable computer,
+the battery must be removed
+
+All Rights Reserved. Reproductions Strictly Prohibited.
+
+Copyrignt @ by
+
+Computer Hacking Forensic Investigator Copyright © by EC-Council
+All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator Exam 312-49
+Computer Forensics Investigation Process
+
+Computer Forensics Investigation
+Methodology
+
+ww A nf
+Seizure
+
+Secure Data Analysis
+the Evidence
+
+C\HFI
+
+Documentation
+and Reporting
+
+Copyright © by BG-feanell. All Rights Reserved. Reproduction is StrictlyProhibited.
+
+Evidence is fragile data that is easy to manipulate, alter, and destroy. Therefore, attackers are
+always looking for ways to damage it in every possible way. This section will discuss the process
+of storing the evidence in a secure manner.
+
+Module 02 Page 173 Computer Hacking Forensic Investigator Copyright © by EC-Council
+All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator Exam 312-49
+Computer Forensics Investigation Process
+
+Evidence management helps in protecting the true state of the evidence
+
+This is achieved by proper handling and documentation of the evidence
+
+At the time of evidence transfer, both sender and receiver need to provide the
+information about date and time of transfer in the chain of custody record
+
+The procedures used to protect the evidence and document it while collecting
+and shipping are:
+
+J The logbook of the project
+
+J Atag to uniquely identify any evidence
+
+a
+
+4 Achain of custody record (oe
+
+Copyright © by All Rights Reserved. Reproductions Strictly Prohibited.
+
+Module 02 Page 174 Computer Hacking Forensic Investigator Copyright © by EC-Council
+All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator Exam 312-49
+Computer Forensics Investigation Process
+
+W@ Chain of custody is a legal document that demonstrates the progression of evidence as it
+travels from original evidence location to the forensics laboratory
+
+The chain of custody
+
+Functions . :
+form should identify:
+@ Governs the collection, handling, @ Sample collector
+storage, testing, and disposition of
+evidence @ Sample description, type, and number
+@ Safeguards against tampering with or © Sampling data, time, and location
+
+substitution of evidence
+
+@ Any custodians of the sample
+
+© Documents that these steps
+have been carried out -
+
+Copyright © by . All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Chain of custody is a legal document that demonstrates the progression of evidence as it travels
+from the original evidence location to the forensic laboratory. It is a roadmap that shows how
+investigators collected, analyzed, and preserved the evidence. The investigators need to
+present this document in court. It ensures accurate auditing of the original data evidence,
+imaging of the source media, tracking of the logs, and so on. The chain of custody shows the
+technology used and the methodology adopted in the forensic phases as well as the persons
+involved in it.
+
+The chain of custody administers the collection, handling, storage, testing, and disposition of
+evidence. It helps to ensure protection of evidence against tampering or substitution of
+evidence. Chain of custody documentation should list all the people involved in the collection
+and preservation of evidence and their actions, with a stamp for each activity.
+
+The chain of custody form should identify:
+# Sample collector
+» Sample description, type, and number
+*» Sampling data and location
+» Any custodians of the sample
+
+Submission of the digital evidence in court requires a multi-dimensional approach. From this
+point of view, the chain of custody assumes important significance. The forensic investigator
+needs to document each step taken during the period of collecting the evidence. It is important
+that the investigators clarify the source, date of recovery, method of recovery, and nature of the
+digital evidence.
+
+Module 02 Page 175 Computer Hacking Forensic Investigator Copyright © by EC-Council
+All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator Exam 312-49
+Computer Forensics Investigation Process
+
+Simple Format of the
+
+Chain of Custody Document
+
+Laboratory or
+
+bh Agency Name: Cee ene:
+
+Received f (Name and Title) Address and Telephone Number
+
+[SL Reason Evidence was Date and Time
+
+Evidence was
+Obtained Obtained
+
+Location from where Evidence Obtained
+
+Item Number Description of Item
+
+Copyright & by All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Forms  C\HFI
+
+Computer System Worksheet
+
+Date: eal (Agency:
+She #: ) Site Address#:
+
+Examiner:
+Notes: Room/Location ID:
+
+Computer Description (An of check all thatapply)
+Male: OO Wone GaseType O Mii toe O Mtoe Ofalitower Olapep Oe O Anime Ofek Mont
+Model: Ln) Local
+o OO None = System Date: 4 cal Date:
+
+Serial #: O None [fy  SystemTime: i LocalTime:
+
+SystemStatus: 0 an OaActvwe (© Suspended) Stand-by Screen Saver Acthe
+
+AN: OC) None Oot 0 No Power/bot Connected 0) Other
+
+Apparent 05 DO it ") Active {Open Programs: OWoe OWA
+
+From O wa 0 Sart Button L
+OD Screen 0 Other
+
+Shutdown O Had OC Soh Olinkncen
+
+Method Ona Clothe -
+
+Shutdown
+
+Data and Time a
+
+Oopyright @ by All Rights Reserved, Reproductionis StrictlyProhibited.
+
+Computer Hacking Forensic Investigator Copyright © by EC-Council
+All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator
+Computer Forensics Investigation Process
+
+#)
+
+eee eee aio oO OU
+
+(Cont’d)
+
+INTERFACE
+R45
+RJ-11
+CL) HDMI! C) SATA
+
+Oo uss Oat
+
+DO uss Oat
+
+OC Firewire (] USB
+
+LJ Thunderport
+
+PASSWORD INFO:
+
+Peripherals and Connections
+
+DESCRIPTION
+
+NIC Interface
+
+Telephone Modem
+
+Monitor
+
+Keyboard
+
+Mouse
+
+Printer
+
+Connector
+
+NOTES
+
+Media Model
+
+Media Model
+
+Media Model
+
+Media Model
+
+Media Model
+
+Media Model
+
+Serial No
+
+Serial No
+
+Serial No
+
+Serial No
+
+Serial No
+
+Serial No
+
+Exam 312-49
+
+Copyright & by All Rights Reserved. Reproduction is Strictly Prohibited.
+
+(Cont’d)
+
+Chain of Custody Form
+
+~ Package # i> Date/Time Released By me Received By
+
+Date
+
+Name Agency
+
+Signature
+
+Name /Agency
+
+Signature
+Name /Agency
+
+Signature
+
+Name /Agency
+
+Signature
+Name /Agency
+
+Signature
+
+Name /Agency
+
+Signature
+
+Name /Agency
+
+Signature
+
+Name /Agency
+
+Signature
+Name /Agency
+
+Signature
+
+Name /Agency
+
+Signature
+Name /Agency
+
+Signature
+
+Name /Agency
+
+Signature
+
+Oopyright @ by All Rights Reserved, Reproductionis StrictlyProhibited.
+
+Computer Hacking Forensic Investigator Copyright © by EC-Council
+All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator Exam 312-49
+Computer Forensics Investigation Process
+
+(Cont’d)
+
+Evidence Collection Form
+Submitting Agency:
+Case Number:
+Item Number:
+Date of Collection:
+Time of Collection:
+Collected by:
+Badge Number:
+Description of Enclosed Evidence:
+
+Location where itis Collected from:
+
+Type of Offences:
+
+Victim's Full Name:
+
+Suspect's Full Name:
+
+Copyright & by All Rights Reserved. Reproduction is Strictly Prohibited.
+
+(Cont’d)
+
+Computer Evidence Worksheet
+
+Case Number: Fes Exhibit Number:
+
+# Laboratory Number: Control Number:
+
+@ Manufacturer:
+5) Serial Number:
+ig Examiner Marking:
+Computer Type: Laptop O
+GmputerCondition: Damage
+Numberof Hard Drives:
+Modem O Network Card 0 Type Drive O Type Drivetype:
+100MEZip O 250MEZip O CD Reader O CD Read / Write O
+
+DvD O Other:
+
+Oopyright @ by All Rights Reserved, Reproductionis StrictlyProhibited.
+
+Computer Hacking Forensic Investigator Copyright © by EC-Council
+All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator Exam 312-49
+Computer Forensics Investigation Process
+
+(Cont’d)
+
+Computer Evidence Worksheet
+Not Available
+ig Password Logon: Password =
+
+Current Time: Current Date:
+
+CMOS Time: Current Date:
+
+Auto O
+
+Heads: Sectors:
+
+LegacyCHS O
+
+Normal O
+
+Copyright & by All Rights Reserved. Reproduction is Strictly Prohibited.
+
+(Cont’d)
+
+Hard Drive Evidence Worksheet
+
+Case Number: R&S) Exhibit Number:
+
+Cy Laboratory Number: Control Number:
+
+ial Hh
+ry Manufacturer: ig Manufacturer:
+) Model: "Model:
+=P Serial Number: ! — Serial Number:
+Capacity: Capacity:
+Head: | Head:
+ControllerRev: ControllerRev:
+IDE QO 50 Pin SCSI : IDE Oo SOPin scsi O
+66 Pin $cS1 OU 80 Pin SCSI : @ Pin scsi O Pin scsi O Other 0
+
+Jumper: Master 0 Jumper: Master 0 Slave O
+Cable Selected O : Cable Selected UO Undetermined (1)
+
+Oopyright @ by All Rights Reserved, Reproductionis StrictlyProhibited.
+
+Computer Hacking Forensic Investigator Copyright © by EC-Council
+All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator
+Computer Forensics Investigation Process
+
+Exam 312-49
+
+(Cont’d)
+
+Dos FDisk O PTable 0
+
+Capacity:
+LBA Address Sector:
+
+Volume Label:
+
+Computer Evidence Worksheet
+
+Partinfo 0 Linux FDisk O
+
+Cylinder: Heads:
+
+Formatted Drive Capacity:
+
+Copyright & by All Rights Reserved. Reproduction is Strictly Prohibited.
+
+(Cont’d)
+
+Case Number:
+2 Laboratory Number:
+
+r
+Diskette [ ]
+
+1GBJaz[ |]
+
+cl)
+
+Exhibit # / Sub Exhibit #
+
+Module 02 Page 180
+
+Removable Media Worksheet
+
+SS Exhibit Number:
+
+Control Number:
+
+15 120[ } 100 MB Zip [ ] 750 MB Zip [ ]
+2GBJaz[ ] Magneto - Optical [ ] Wee [ |
+
+DVD[ ] Other[ ]
+
+Duplicate Keyword Search
+
+0
+
+O
+
+Oopyright @ by All Rights Reserved, Reproductionis StrictlyProhibited.
+
+Computer Hacking Forensic Investigator Copyright © by EC-Council
+All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator
+Computer Forensics Investigation Process
+
+Chain of Custody on
+
+nonas ene issdasnstelsooneaseeinsentceannennenetencesiceoe-ecocoie tas ebateatecany
+
+CHAIN OF CUSTODY
+
+| | Received By Cigtature Fieyeh) Cute Recd |
+
+=
+
+a ee
+
+i INTERMATIONAL POLICE DEPARTMENT Lateraiery homneer
+
+International Police Department
+Property Sign-Out Strert
+Tisonpticne! Proprity «eer them mip
+
+OUT
+i Sipasore
+
+|
+q
+po 7
+macriis |
+So Lee eee
+
+Module 02 Page 181
+
+Exam 312-49
+
+INTERNATIONAL POLICE
+
+Evidence
+
+Chasm of Cunmicety
+
+Copyright © by . All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator Copyright © by EC-Council
+All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator
+Computer Forensics Investigation Process
+
+Exam 312-49
+
+Packaging and Transporting
+Electronic Evidence
+
+Copyright © by BG-feanell. All Rights Reserved. Reproduction is StrictlyProhibited.
+
+Investigators need special equipment to analyze the devices, extract the evidence, and analyze
+it. Therefore, they need to transport it to the laboratory for investigation and to the court. This
+section will make you aware of the processes that can help in packaging and transporting the
+
+digital evidence in a safe and secure manner.
+
+Module 02 Page 182
+
+Computer Hacking Forensic Investigator Copyright © by EC-Council
+All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator
+Computer Forensics Investigation Process
+
+Exam 312-49
+
+Evidence Bag
+
+details:
+‘J Date and time of seizure
+
+Investigator who seized the evidence
+Exhibit number
+
+Where the evidence was seized from
+
+Submitting agency and its address
+
+oan
+EE
+
+The panel on the front of evidence bags
+must, at the very least, contain the following
+
+Details of the contents of the evidence bag
+
+Copyright © by All Rights Reserved. Reproductions Strictly Prohibited.
+
+Additional details required on the panel of the evidence bags include name of the officers who
+took photographs or prepared a scene sketch, sites where individual items were found, and
+
+names of the suspects, if any.
+
+Module 02 Page 183
+
+Computer Hacking Forensic Investigator Copyright © by EC-Council
+All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator Exam 312-49
+Computer Forensics Investigation Process
+
+Electronic
+
+Evidence
+
+Make sure the gathered electronic evidence is
+correctly documented, labeled, and listed
+before packaging
+
+ere oo saa
+Pay special attention to hidden or trace — EVIDENCE —
+
+evidence, and take necessary actions to SSS |
+safeguard it
+
+Pack magnetic media in antistatic packaging
+
+Do not use materials such as plastic bags for
+packaging because they may producestatic
+electricity
+
+Avoid folding and scratching storage devices
+such as diskettes, DVDs, and tapes
+
+Make sure that all containers that contain
+evidence are labeled in the appropriate way
+
+Copyright © by . All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Module 02 Page 184 Computer Hacking Forensic Investigator Copyright © by EC-Council
+All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator Exam 312-49
+Computer Forensics Investigation Process
+
+Numbering C/HFI
+
+Allthe collected evidence shouldbe labeled and marked (numbered) properly as exhibits,
+using a pre-agreed format
+
+Example: aaa/ddmmyy/nnnn/zz
+Where:
+
+: aaa are the initials of the forensic analyst orlaw enforcement officer seizing the equipment
+
+| ddmmyy is the date of the seizure
+
+; nnnn is the sequential number ofthe exhibits seized by the analyst, starting with 001
+
+zz is the sequential number for parts of the same exhibit (for example, A would be the
+computer, B would be the monitor, C would be the keyboard, etc.)
+
+Copyright © by _All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Exhibit numbering or exhibit labeling refers to the process of tagging evidence with sequential
+number, which includes case and evidence details. This will allow the investigator to easily
+identify the evidence and know its details. The investigators should mark all the evidence ina
+pre-agreed format, such as: aaa/ddmmyy/nnnn/zz. Where:
+
+" aaa are the initials of the forensic analyst or law enforcement officer seizing the
+equipment.
+
+» dd/mm/yy is the date of seizure.
+
+=" nnnnis the sequential number of the exhibits seized by aaa, starting with 001 and going
+to nnnn.
+
+=" zz is the sequence number for parts of the same exhibit (e.g., ‘A’ could be the CPU, ‘B’
+the monitor, ‘C’ the keyboard, etc.)
+
+Module 02 Page 185 Computer Hacking Forensic Investigator Copyright © by EC-Council
+All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator Exam 312-49
+Computer Forensics Investigation Process
+
+Electronic
+
+Evidence
+
+Copyright © by . All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Module 02 Page 186 Computer Hacking Forensic Investigator Copyright © by EC-Council
+All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator Exam 312-49
+Computer Forensics Investigation Process
+
+_ Storing Electronic Evidence CHF
+
+Store the electronic
+evidenceina
+Ensure the ait
+
+IS in environment
+accordance with
+
+the
+from
+magnetic fields, dust,
+vibrations, and other
+factors that may
+damage its integrity
+
+Copyright © by EG-Geanell. All Rights Reserved. Reproduction is StrictlyProhibited.
+
+Electronic devices contain digital information that may be potential evidence such as system
+date, time, and configuration. They lose this potential evidence because of improper and
+prolonged storage. Digital/electronic evidence is fragile in nature. Therefore, first responders
+should follow the practices mentioned in the slide.
+
+Module 02 Page 187 Computer Hacking Forensic Investigator Copyright © by EC-Council
+All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator Exam 312-49
+
+Computer Forensics Investigation Process
+
+Computer Forensics Investigation c H FI
+Methodology |
+
+nf Cw A
+Seizure the Evidence
+
+A
+
+y 3
+
+Data Data Analysis
+Acquisition
+
+Documentation
+and Reporting
+
+Copyright © by BG-feanell. All Rights Reserved. Reproduction is StrictlyProhibited.
+
+During the investigation of digital devices, all the evidence may be present in the form of data.
+Therefore, the investigators should have expertise in acquiring the data stored across various
+devices in different forms. This section will describe how the investigators can acquire such
+
+data.
+
+Computer Hacking Forensic Investigator Copyright © by EC-Council
+
+Module 02 Page 188
+All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator Exam 312-49
+Computer Forensics Investigation Process
+
+for Acquiring
+Evidence
+
+Inwarning banners, organizations give clearand unequivocal notice to intruders that
+by signing onto the system they are expressly consenting to such monitoring
+
+Select appropriate resources forfinding the evidence, and do not performany
+operation on the incident system that could change ordelete possible evidence
+
+When seizing the evidence, the computershould not be powered down
+
+Make sure the examiner's storage device is forensically clean while gathering.
+and preserving the evidence
+
+Initiate write protection to secure and protect original evidence
+
+_
+—
+-
+bd
+ad
+—
+_
+ad
+_
+ad
+
+Copyright © by . All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Acquiring evidence is a critical step in the investigation. It changes the scenario of the case, as
+there can be a large amount of information that helps to solve the case. The guidelines for
+acquiring the evidence are:
+
+Select the appropriate resources for finding the evidence.
+
+Do not perform any operation on the incident system that could change or delete
+possible evidence.
+
+Create a duplicate for the evidence and perform forensics on it.
+
+If the devices carrying evidences are necessary to keep the business running or if the
+investigators cannot transport the device, copy or image the evidence.
+
+Use sample banners to record system activities, when used by an unauthorized user.
+Seize any equipment that can act as evidence.
+When seizing the evidence, do not power down the computer.
+
+Make sure the examiner’s storage device is forensically clean while gathering and
+preserving the evidence.
+
+Initiate write protection to secure and protect original evidence.
+
+In warning banners, organizations give clear and unequivocal notice to intruders that by
+signing onto the system they are expressly consenting to such monitoring.
+
+Module 02 Page 189 Computer Hacking Forensic Investigator Copyright © by EC-Council
+
+All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator Exam 312-49
+
+Computer Forensics Investigation Process
+
+Original Evidence Should
+NEVER Be Used for Analysis
+
+Copyright © by BG-Gemmell. All Rights Reserved. Reproduction is StrictlyProhibited.
+
+Investigation and analysis processes can have both positive and negative impact over the
+evidential data, and sometimes these processes can alter this data in such a way that it is no
+longer acceptable in a court of law. Therefore, the investigators should make copies of the
+evidence and work on it to avoid damage to the original data in case of accidents or mishaps.
+This section will discuss the procedures that the investigators should follow to avoid damage of
+
+evidence files.
+
+Computer Hacking Forensic Investigator Copyright © by EC-Council
+
+Module 02 Page 190
+All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator Exam 312-49
+Computer Forensics Investigation Process
+
+(Imaging)
+
+. eae ; The data should be
+Make a duplicate of the duplicated bit by bit to
+collected data so as to : :
+
+preserve the original represent the same
+
+original data
+
+Once a copy of the original Use industry standard or
+
+data is made and verified : : licensed hardwareor
+you can use the copy for : sa tools to
+further processing duplicate the data
+
+Note: For more information on data duplicationrefer to Module 04: Data Acquisition and Duplication
+
+Copyright © by . All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Performing the investigation on the original evidence can misdirect the investigation to
+different results and could make the original evidence vulnerable. Data duplication is an
+important step in securing the original evidence. Investigating the original evidence can cause
+damage to the identity of the evidence that would make it no longer useful to the case.
+
+Data duplication includes bit-by-bit copying of the original data using a software or hardware
+tool. The duplicated data should be an exact blueprint of the original evidence, and make two
+or more copies to perform different investigations. The copies can also help if one copy is
+damaged. Send the duplicated data to the forensics lab for investigation and further analysis.
+
+Module 02 Page 191 Computer Hacking Forensic Investigator Copyright © by EC-Council
+All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator Exam 312-49
+Computer Forensics Investigation Process
+
+BF vosyinagetnessiy [om
+
+Calculate the hash Tools for calculating
+value of the original hash value:
+data and the forensic ®@ HashCale
+image generated © MDS Calculator
+@ HashMyFiles
+
+Copyright © by All Rights Reserved. Reproductions Strictly Prohibited.
+
+Hash values are equivalent to data fingerprints. No two files contain the same hash values. The
+hash algorithms used in forensics are MID5 and SHA. Calculate and match the MD5 hash for the
+original evidence and the forensic image. The same hash values show that the image is the
+same as the evidence.
+
+Tools for calculating hash value are:
+
+" HashCalc: HashCalc is a calculator that allows computing message digest checksums and
+HMACs for files, as well as for text and hex strings.
+
+" MD5 Calculator: The MD5 Calculator is a program that will enable you to calculate the
+MID5 value of the selected file.
+
+" HashMyFiles: HashMyFiles is a small utility that allows you to calculate the MD5 and
+SHA1 hashes of one or more files in your system.
+
+Module 02 Page 192 Computer Hacking Forensic Investigator Copyright © by EC-Council
+All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator Exam 312-49
+Computer Forensics Investigation Process
+
+IMD5 Hash Calculators:
+
+File Tools Help
+Data Forme Data
+| Tet shing si |Mecting at 2PH Fle Mame
+
+Keep Foomal: Kew
+T Hedac: | Text ching =]
+
+he MDG [cdE2 TIS eae Md 27 2d Esta ee
+7 MDs 138087 38eb7ice1 6190 ISA82Seb560 DD Upeer cane
+
+SHA barlbSelil2telabrddadseted actte0577 0901
+
+i SHAZSB |G5bTesa295 idee ad G27 dlcO IIH wc AOS ec 201 c
+he SHAS JETS OSH 2 cee 1 Tobe ab BP eof eda IalchbedeIbsds
+WW OSHABTZ — [di fchlabaSd abet bbhS Pde MdbT behing El Aes WII
+7 RIPEMOED [Ear Pibcchallbet Src Seeseseh 232
+
+M PANAMA [Sai SScaP2aieehSaleada rer] 1 Sd i2aIbsbSr a sa 2ab! Fle Get ‘iw Optics Halp
+
+TIGER |SE1GT Leet? dalSoGtooceDSG2bT 222 eed ihebda2a! Soge8 Bh eeva
+
+MDD [PERG GIO7 M2bO acebOSiedbeearcbe i CRORE | SHb-15E
+MW ADLERI2  [28bal4an ease
+
+i-
+
+i PEHGI.. G2leTbbTeRL. ceJS0S)! WeTeEcHTad. dld7Fecl3e..
+
+7 cacse — [senracea [My Files. MOM. (TeecbeM]. OGM GeSenSiBol., Je22uibIel. gi
+CFicehilettet ~  HeMtiwldGh.. beQiube G4TIAISO. sTeATbhITEe..
+
+eg orig [135637 38eb7Icel 61h: 105e872eL560 Shave Fikes = Seale SbGRML. SFAUGTHDS.. CST RONOMES.
+Secret Fllebibt . BEET, alld] adboiboh. Meade.
+
+SlavaSoft | Calculte | Clore | Hep |
+
+Gillis), 1 Selected
+
+hitp://www.slavasoft.com http: //wwesnirsoftinet
+
+Copyright © by . All Rights Reserved. Reproduction is Strictly Prohibited.
+
+HashCalc
+
+Source: http://www.slavasoft.com
+
+HashCalc allows computing message digest checksums and HMACs for files, as well as for text
+and hex strings. It offers a choice of 13 hash and checksum algorithms for calculations.
+
+Features:
+
+= Support for 12 well-known and documented hash and checksum algorithms: MD2, MD4,
+MDS, SHA-1, SHA-2 (256, 384, 512), RIPEMD-160, PANAMA, TIGER, ADLER32, and CRC32
+
+=" Support for a custom hash algorithm (MD4-based) used in eDonkey and eMule
+applications
+
+" Support for 2 modes of calculations: HASH/CHECKSUM and HMAC
+» Support for 3 input data formats: files, text strings, and hex strings
+= Works with large size files (tested on file sizes up to 15 GB)
+
+» Drag-and-drop support
+
+*" Quick and easy Installation
+
+" Calculates hash/checksum and HMAC for files of any type: music, audio, sound, video,
+image, icon, text, compression, etc., with the extensions: .mp3, .wav, .avi, .mpg, .midi,
+
+Module 02 Page 193 Computer Hacking Forensic Investigator Copyright © by EC-Council
+All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator Exam 312-49
+Computer Forensics Investigation Process
+
+.mov, .dvd, .ram, .zip, .rar, .ico, .gif, .pif, .pic, .tif, .tiff, txt, .doc, .odf, .wps, .dat, .dll, .hex,
+.bin, .iSO, .cpp, .dss, .par, .pps, .cue, .ram, .md5, .sfv, etc.
+
+MDS5 Calculator
+
+Source: http://www. bullzip.com
+
+The MD5 Calculator is a program that will enable you to right-click any file and select “MDS
+Calculator” from the context menu. This will calculate the MD5 value of the selected file. You
+can compare the calculated value to a value given to you by another person or from a website.
+
+HashMyFiles
+
+Source: http://www.nirsoft.net
+
+HashMyFiles is a small utility that allows you to calculate the MD5 and SHA1 hashes of one or
+more files in your system. HashMyFiles can also be launched from the context menu of
+Windows Explorer and display the MD5/SHA1 hashes of the selected file or folder. HashMyFiles
+does not require any installation process or additional DLL files.
+
+Module 02 Page 194 Computer Hacking Forensic Investigator Copyright © by EC-Council
+All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator Exam 312-49
+Computer Forensics Investigation Process
+
+Recover Lost or Deleted Data
+__RecoverData = _@)
+
+Collect Data Software used
+
+to recover the data
+® After committing a crime,
+
+acriminal usually deletes Recover My Files
+
+the files he or she used as
+
+part of removing the
+
+traces of crime EASEUS Data Recovery Wizard
+4s an investigator, try to
+
+recover the lost or Undelete Plus
+
+deleted files in the
+internal and external
+
+devices Ontrack EasyRecovery
+
+Recuva
+
+Advanced Disk Recovery
+
+‘@¢m Data Recovery Tools }
+
+Copyright © by BG-Gemmell. All Rights Reserved. Reproduction is StrictlyProhibited.
+
+Modern operating systems make it difficult to delete a file completely from a system. When a
+file is deleted unintentionally, stop using the system. Collect the lost or deleted data for
+evidence on the Internal and external devices.
+
+Software used to recover the data
+
+Examples of software used to recover lost or deleted data:
+
+Recover My Files
+
+Source: http://www.recovermyfiles.com
+
+Recover My Files data recovery software will recover deleted files emptied from the Windows
+Recycle Bin, or lost because of the format or corruption of a hard drive, virus or Trojan
+infection, and unexpected system shutdown or software failure.
+
+Recuva
+
+Source: https://www. piriform.com
+
+Recuva can recover pictures, music, documents, videos, emails or any other file type that are
+lost. It can recover from any rewriteable media like memory cards, external hard drives, USB
+sticks etc.
+
+Module 02 Page 195 Computer Hacking Forensic Investigator Copyright © by EC-Council
+All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator Exam 312-49
+Computer Forensics Investigation Process
+
+EASEUS Data Recovery Wizard
+
+Source: http://www.easeus.com
+
+It is hard drive data recovery software to recover data lost from PCs, laptops, or other storage
+media because of deleting, formatting, partition loss, OS crash, virus attack etc.
+
+Advanced Disk Recovery
+
+Source: http://www.systweak.com
+
+Advanced Disk Recovery scans the entire system for deleted files and folders and provides an
+opportunity to recover them. Hard drives, partitions, external devices, and even CDs and DVDs
+can be scanned for recoverable files using Advanced Disk Recovery. The software offers two
+types of scans. The Quick Scan uses the Master File Table to find all files with the same
+filename. The Deep Scan uses file signatures to search for deleted files or folders. After either
+type of scan, one can preview the deleted files and folders, and restore any or all of them to the
+location of choice. With just a few clicks, one can locate and restore most of the deleted files.
+
+Ontrack EasyRecovery
+Source: Attps://www.krollontrack.com
+
+Ontrack EasyRecovery is a data recovery software ready to retrieve missing files. It recovers
+data and also protects it.
+
+Module 02 Page 196 Computer Hacking Forensic Investigator Copyright © by EC-Council
+All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator Exam 312-49
+Computer Forensics Investigation Process
+
+Software  CjHFI
+
+Me Recretetree zien ied
+a ee | . J
+= Lo
+
+(SUH Ve Ce Tabet a.
+
++ We have found
+a SS
+-
+
+deleted files
+
+ee a
+MEG ere, BTL NT eek Sie, SRI Bare creefieemes, hie
+
+HRHRHER ES EOE fe
+Be t FEER |
+
+NEXT: Sebect he flee ‘you meant bo recower
+
+(http: undeleteplus.com)
+
+(http: //www.eoseus.com)
+
+Copyright © by All Rights Reserved. Reproductions Strictly Prohibited.
+
+Recover My Files
+
+Source: http://www.recovermyfiles.com
+
+Recover My Files data recovery software will recover deleted files emptied from the Windows
+Recycle Bin, or lost because of formatting or corruption of a hard drive, virus or Trojan
+infection, and unexpected system shutdown or software failure. Recover My Files can preview
+the data “on-the-fly” while searching.
+
+Features:
+= Recover files even if they are emptied from the Recycle Bin.
+=" Recover files after accidental format, even if you have reinstalled Windows.
+= Recover disks after a hard disk crash.
+=" Get back files after a partitioning error.
+=" Get data back from RAW hard drives.
+» Recover documents, photos, video, music, and email.
+
+= Recover from a hard drive, camera card, USB, Zip, floppy disk, iPod, and other media.
+
+Module 02 Page 197 Computer Hacking Forensic Investigator Copyright © by EC-Council
+All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator Exam 312-49
+Computer Forensics Investigation Process
+
+UndeletePlus
+
+Source: hAttp://www.undeleteplus.com
+
+» Recovers documents, photos, video, music, and email.
+=» Recover files -even those emptied from the Recycle Bin.
+" File recovery after accidental format - even if one has reinstalled Windows.
+
+= Recover files from hard drives, USB thumb drives, camera media cards, floppy disks, and
+other storage devices.
+
+EASEUS Data Recovery Wizard
+
+Source: http://www.easeus.com
+
+lt is a hard drive data recovery software that provides a reliable data recovery solution to save
+all kinds of data loss scenarios. It enables you to recover different files from PC/laptop, hard
+drive, lost or raw partition, USB drive, memory card, digital camera, music player or other
+storage devices because of deleting, formatting, partition loss, partition inaccessibility, virus
+attack or other unknown reasons.
+
+Features:
+*" Supports large hard disk.
+# Specify your recovery file types before scanning for precise searching results.
+» Filter your search by file name, type, and date to find files.
+
+» Preview the files to check their details and quality before you decide to recover them.
+
+Module 02 Page 198 Computer Hacking Forensic Investigator Copyright © by EC-Council
+All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator Exam 312-49
+Computer Forensics Investigation Process
+
+Computer Forensics Investigation
+Methodology
+
+ww A nf
+Seizure
+fe
+
+C\HFI
+
+y
+
+Documentation
+and Reporting
+
+Copyright © by BG-feanell. All Rights Reserved. Reproduction is StrictlyProhibited.
+
+Data analysis refers to the process of going through the data and finding the relevant evidential
+data and its relevance to the crime. This section will explain the process of analyzing the data in
+order to use it for proving the crime and the perpetrator.
+
+Module 02 Page 199 Computer Hacking Forensic Investigator Copyright © by EC-Council
+All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator Exam 312-49
+Computer Forensics Investigation Process
+
+Thoroughly analyze the acquired data to draw conclusions related to the
+case
+
+Data analysis techniques depend on the scope of the case or the client’s
+requirements
+
+This phase includes:
+
+Identify and categorize datain order of relevance
+
+Copyright & by All Rights Reserved. Reproductionis Strictly Prohibited.
+
+Data analysis refers to the process of examining, identifying, separating, converting, and
+modeling data to isolate useful information. In forensic investigation, the data analysis helps in
+gathering and examining data to find its relevance with the incident in order to submit the
+findings to an authority for conclusions and decision-making.
+
+Thoroughly analyze the acquired data to draw conclusions related to the case. Data analysis
+techniques depend on the scope of the case or client’s requirements, and the type of evidence.
+This phase includes:
+
+= Analyzing the file content for data usage
+
+= Analyzing the date and time of file creation and modification
+
+=" Users associated with file creation, access, and file modification
+=" Physical storage location of the file
+
+=» Timeline generation
+
+Identify and categorize data in order of relevance to the case, such that the most relevant data
+serves as the most important evidence to the case.
+
+Module 02 Page 200 Computer Hacking Forensic Investigator Copyright © by EC-Council
+All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator Exam 312-49
+Computer Forensics Investigation Process
+
+Data Analysis (Cont’d) C HFI
+
+AccessData's FTK
+
+| Evidence Processing
+Forensics tools help in sorting and |
+Sect aca 50S pou Re Gees dey ore teeing,
+
+analysis of a large volume of data pee eae Saeed
+
+Fe Mg Hanh PP ing Duplicute Pilon
+to draw meaningful conclusions FF seiHeh it
+
+FF BH 2RG Hach
+
+T earey Hash rey Haves |
+En vi Hae
+
+PP typed Cepoured les (ead OLE, oP. ete.)
+Tes ears Bret to Geir ch corepeure Ales eckeieg eed beecs, adeves, ood,
+
+F AccessData's Forensic Toolkit (FTK) . Seger
+
+. : Fe Hag Sed Entoreos
+Guidance Software's EnCase IT igebooy Test
+
+Forensic FY Spimarch 3 Tact Inca [rire Tigdora...
+
+Be Creete Thombs fre Graphicn
+CL Ae Lsting (7 ie Letng Datebese
+® Brian Canier’s The Sleuth Kit (TSK) ' . i asada 2 |
+
+PY eta Carve
+
+oo faa
+
+Y= —
+
+Examples of data analysis tools:
+
+Rewet fo Factory Cefeudts
+
+http:,//wwwoccessdata.cam
+
+Copyright @ by EG-Gemnell, All Rights Reserved. Reproductionis Strictly Prohibited.
+
+AccessData’s FTK
+
+Source: http://www.accessdata.com
+
+FTK Imager is a data preview and imaging tool that enables analysis of files and folders on local
+hard drives, CDs/DVDs, network drives, and examination of the content of forensic images or
+memory dumps. FTK Imager can also create MD5 or SHA1 hashes of files, review and recover
+files deleted from the Recycle Bin, export files and folders from forensic images to disk and
+mount a forensic image to view its contents in Windows Explorer.
+
+© =
+EnCase Forensic
+
+Source: https://www. quidancesoftware.com
+
+EnCase is a popular multi-purpose forensic platform that includes many useful tools to support
+several areas of the digital forensic process. This tool can collect a lot of data from many
+devices and extract potential evidence. It also generates an evidence report.
+
+EnCase Forensic can help investigators acquire large amounts of evidence, as fast as possible
+from laptops and desktop computers to mobile devices. EnCase Forensic directly acquires the
+data and integrates the results into the cases.
+
+Module 02 Page 201 Computer Hacking Forensic Investigator Copyright © by EC-Council
+All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator Exam 312-49
+Computer Forensics Investigation Process
+
+This tool enables searching of several thousands of files that exist on a system with a variety of
+search choices like:
+
+=» GREP
+*" Conditional
+*" Boolean
+=» Word searches
+The integrity of evidence has to be maintained in a format that the courts trust.
+
+The Sleuth Kit (TSK)
+
+Source: http://www. sleuthkit.org
+
+The Sleuth Kit (TSK) is a library and collection of command line tools that allows investigating
+disk images. The core functionality of TSK allows analyzing volume and filing system data. The
+plug-in framework also allows incorporating additional modules to analyze file contents and
+build automated systems. The library can be incorporated into larger digital forensics toals and
+the command line tools can be directly used to find evidence.
+
+Module 02 Page 202 Computer Hacking Forensic Investigator Copyright © by EC-Council
+All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator Exam 312-49
+Computer Forensics Investigation Process
+
+Copyright & by All Rights Reserved. Reproductions Strictly Prohibited.
+
+The responsibility of the investigators does not end with finding the evidence data and
+analyzing it, but they should also be able to explain how they arrived at the conclusion to the
+prosecutors, attorneys, and judges. This section will provide knowledge on assessing the data,
+documenting it in an easily understandable manner, and creating easy to read reports.
+
+Module 02 Page 203 Computer Hacking Forensic Investigator Copyright © by EC-Council
+
+All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator Exam 312-49
+Computer Forensics Investigation Process
+
+Computer Forensics Investigation
+Methodology
+
+ww A nf
+Seizure
+fe
+
+C\HFI
+
+y
+
+Evidence Documentation
+Assessment and Reporting
+
+Copyright © by BG-feanell. All Rights Reserved. Reproduction is StrictlyProhibited.
+
+Evidence assessment is the process of relating the obtained evidential data to the incident for
+understanding how the complete incident took place. This section will discuss the process of
+evidence assessment.
+
+Module 02 Page 204 Computer Hacking Forensic Investigator Copyright © by EC-Council
+All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator
+Computer Forensics Investigation Process
+
+Exam 312-49
+
+The digital evidence should be
+thoroughly assessed with respect
+to the scope of the case to
+determine the course of action
+
+Conduct a thorough assessment by
+reviewing the search warrant or other
+legal authorization, case detail, nature
+of the hardware and software, potential
+evidence sought, and the circumstances
+surrounding the acquisition of the
+evidence to be examined
+
+Copyright © by All Rights Reserved. Reproductions Strictly Prohibited.
+
+Evidence assessment is about evaluating the evidence and clues related to the Incident that can
+be helpful in solving the case. Assessment of evidence Is a crucial stage in the forensics process.
+Evidence assessment depends on the type of incident, the objectives required to perform the
+incident, the loopholes present for incident occurrence, etc. During the assessment, it is
+important to assess the digital evidence in correlation with the scope of the case in order to
+
+decide the course of action.
+
+Procedure:
+
+Assess thoroughly by analyzing the search warrant and other legal authorization, such as the
+case details, the nature of the hardware and software, and the circumstances of evidence
+
+acquisition.
+
+Module 02 Page 205
+
+Computer Hacking Forensic Investigator Copyright © by EC-Council
+All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator
+Computer Forensics Investigation Process
+
+Exam 312-49
+
+Identify the legal authority forthe forensics
+examination request
+
+Document the chainof custody
+
+Discuss whether other forensics processes
+need to be conducted on the evidence (e.g.,
+
+DNA analysis, fingerprint, tool marks, trace,
+and questioned documents)
+
+© Discuss the possibility of pursuingother
+
+investigative avenues to obtain additionaldigital
+evidence (e.g., sending a preservation order to an
+Internet service provider (ISP), identifying remote
+storage locations, and obtaining email]
+
+Considerthe relevance of peripheral
+components to the investigation; for example, in
+forgery orfraud cases, consider non-computer
+equipmentsuch as laminators, check paper,
+
+scanners, and printers (In child pornography
+cases, consider digital cameras)
+
+Determine the potential evidence being
+sought (e.g., photographs, spreadsheets,
+documents, databases, and financial records) Determine additional information regarding the
+case (e@.g., aliases, email accounts, ISP used,
+names, network configuration, system logs, and
+passwords) which may be obtained through
+interviews with the system administrator, users,
+
+and employees
+
+Review the case investigator’s request for
+Service
+
+Copyright © by All Rights Reserved. Reproductions Strictly Prohibited.
+
+In this phase, the investigator assesses the impact of the incident on the organization, the
+reasons and the source of the incident, steps required to tackle the incident, the investigating
+team required to handle the case, the procedure of investigation, and the possible outcome of
+the forensic process. Case assessment is important to implement a proper plan in handling the
+case and achieving desired results.
+
+The guidelines for performing case assessment:
+» Initially examine the investigator's service request.
+= Get the legal authority to obtain a forensic examination request.
+= Ensure that the request assignment has sufficient required assistance.
+= Provide the complete chain of custody.
+
+= Check if the evidence requires forensic processes, such as analysis of DNA, fingerprints,
+tool marks, trace evidence, and questioned documents.
+
+» Establish the potential evidence sought.
+= Review the case investigator’s request for service.
+
+=" Check if there is a possibility to follow investigative methods, such as to identify a
+remote storage location, to send a preservation order to an Internet service provider
+(ISP), and to obtain email.
+
+Computer Hacking Forensic Investigator Copyright © by EC-Council
+All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Module 02 Page 206
+
+Computer Hacking Forensic Investigator Exam 312-49
+Computer Forensics Investigation Process
+
+» Identify the relevance of various network elements to the crime scene, such as credit
+cards, check papers, scanners, and cameras.
+
+=» QObtain additional details such as email addresses, ISP used, and names.
+
+" Evaluate the skill levels of the users to identify their expertise in destroying or
+concealing the evidence.
+
+» Set the order of the evidence examination.
+» Ascertain the requirement for additional personnel.
+
+# Identify the requirement for additional equipment.
+
+Module 02 Page 207 Computer Hacking Forensic Investigator Copyright © by EC-Council
+All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator Exam 312-49
+Computer Forensics Investigation Process
+
+Processing
+
+Assess the evidence to determine where to conduct the examination
+
+It is preferable to complete the examinationina suchasa
+
+dedicated forensics work areaor laboratory
+
+Whenever circumstances require an on-site examination to be conducted,try to
+control the environment
+
+Assessment considerations include:
+
+J The time needed on-site to accomplish evidence recovery
+
+J Logistic and personnel concerns associated with long-term deployment
+
+J The impact on the business due toa lengthy search
+
+J The suitability ofthe equipment, resources, media, training, and experience
+foran on-siteexamination
+
+Copyright © by . All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Decide the place to examine the evidence after accessing it. The recommendation for the
+environment includes a forensic work area or laboratory. It is better to have a controlled
+environment in case the examination is onsite.
+
+Considerations for the assessment location might include the following:
+» The time required to recover the evidence when onsite.
+= Logistic and workforce concerns related to long-term deployment.
+= Business impact of a time-consuming search.
+
+» Any equipment, resources, media, training, and experience suitable for an onsite
+examination.
+
+Module 02 Page 208 Computer Hacking Forensic Investigator Copyright © by EC-Council
+All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator Exam 312-49
+Computer Forensics Investigation Process
+
+Collecting Evidence from
+
+Social media sites and apps such as Facebook, Linkedin, Twitter, Google+, WhatsApp,
+"*. O1 Snapchat, etc. are widely being used nowadays for communication and information-
+sharing purposes, because of which attacks through them are also increasing
+
+= a
+
+Z 02 Thus, social media sites and apps can be a treasure trove for forensics
+investigations to track a perpetrator
+
+= |
+
+F The information gathered from social media might help a forensic investigator
+03 to build a timeline of an attack
+
+Copyright © by All Rights Reserved. Reproductions Strictly Prohibited.
+
+Currently, the number of people using social networking sites is increasing rapidly. It has
+become one of the easiest ways to communicate and share data. This has led cybercriminals to
+find ways to commit crimes via social networking. Because of the use of social media for illegal
+and criminal purposes, it has become a crucial source of evidence in the field of computer
+forensics. Some of the popular social networking sites are Facebook, WhatsApp, Twitter,
+Linkedin, Google+, Snapchat, etc.
+
+Thus, social media sites and apps can be a treasure trove for forensics investigations to track a
+perpetrator. The information gathered from social media might help a forensic investigator to
+build a timeline of attack.
+
+Module 02 Page 209 Computer Hacking Forensic Investigator Copyright © by EC-Council
+All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator Exam 312-49
+Computer Forensics Investigation Process
+
+Collecting Evidence from
+
+(Cont’d)
+
+Social media forensics depends on limited set of data sources as acquiring the server's
+hard drives isnot possible and getting data needs the service operator’s cooperation GQ
+
+Generic data of interest for forensics investigations on social media networks or apps:
+The social footprint:
+
+Social graph of the user and with whom the user is connected
+Communication pattern:
+
+W Network used for communicating, method of communication, and with whom the user has
+communicated
+
+Pictures and Videos:
+W Pictures and videos uploaded by the user, and on whose pictures is the user tagged
+Times of Activity:
+
+The time user has connected to the social network, and the exact time a specific activity of interest has
+taken place
+
+Apps:
+Apps used by the user and their purpose
+Information that can be inferred in the social context
+
+All the above information is solely stored by the social network operator
+
+Xépyright © by All Rights Resarv@d:Reproduction is Strictly Probiibited.
+
+Social media forensics depends on a limited set of data sources as acquiring the server’s hard
+drives is not possible and getting data needs the service operator’s cooperation.
+
+Generic data of interest for forensic investigations on social media networks or
+
+apps:
+
+The social footprint: Social graph of the user and with whom the user is connected
+
+Communication pattern: Network used for communicating, method of communication,
+and with whom the user has communicated
+
+Pictures and Videos: Pictures and videos uploaded by the user and on which other
+people’s pictures is the user tagged
+
+Times of Activity: The time user has connected to the social network and the exact time
+a specific activity of interest has taken place
+
+Apps: Apps used by the user and their purpose. Information that can be inferred in the
+social context
+
+Interconnection pattern: Includes user data like user’s friend list, chat messages, group
+chats etc. This data helps the investigator to know about the user’s friends, groups,
+connections added, etc.
+
+Interaction pattern: The interaction pattern helps users to interact with others through
+messages and the interaction frequency.
+
+Module 02 Page 210 Computer Hacking Forensic Investigator Copyright © by EC-Council
+
+All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator Exam 312-49
+Computer Forensics Investigation Process
+
+" Activity Timestamps: The timeline of the activities of the user on social networking can
+provide vital information for the investigation. The timestamp of the user
+communication, data sharing like posting photos, status update etc. reveals information
+such as a particular user activity.
+
+# User Location: Social networking sites have a geo-tagging or location update feature
+where the users can mention their precise location at a certain time.
+
+All the above information is solely stored with the social network operator.
+
+Module 02 Page 211 Computer Hacking Forensic Investigator Copyright © by EC-Council
+All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator Exam 312-49
+Computer Forensics Investigation Process
+
+Collecting Evidence from
+
+(Cont’d)
+
+Location of Social Networking information:
+
+@ User accountand social mediaserver holds much of the information useful for investigation
+
+© Often, social media websites create footprints in RAM, browsercache, pagefiles, unallocatedclusters, and system
+restore point of a com puter
+
+Ways to gather data from social media:
+Traditional forensics methods can be wsed toextract artifacts from local web browser cache
+
+Passive sniffing on the network (not possible if data on the communication layeris encrypted using HTP)
+Active attacks like sniffing on unencrypted Wi-Fis or in combination with ARP spoofing on LANs
+Also, the social network APIs can be used to acquire data, which extends the available data of the web interface
+
+The easiest way to obtain data is to request the victim for his/her account's login credentials to start with the
+investigation
+
+Tools to obtain information from different
+
+common social media websites:
+
+@ Social media data is humongous, therefore tools are required to efficiently and securelycollect such data
+
+© Someof the popular tools include Netvizz, twecoll, divud, Digitalfootprints, Netlytic, ¥1 Social Discovery, Facebook
+Forensic Software, H&A forensics, Geo360, Navigator by LifeRaft Social, Emotive, etc.
+
+Copyright © by All Rights Reserved. Reproductions Strictly Prohibited.
+
+Location of Social Networking information:
+
+User account and social media server holds much of the information useful for
+investigation
+
+Often, social media websites create footprints in RAM, browser cache, page files,
+unallocated clusters, and system restore point of a computer
+
+Portable devices such as smartphones also contain important social networking
+information in the apps. For example, an iPhone can hold the app information in the
+memory like user profile information, attachments, time stamps, and passwords
+
+Ways to gather data from social media:
+
+Traditional forensic methods can be used to extract artifacts from the local web browser
+cache.
+
+Passive sniffing on the network (not possible if data on the communication layer is
+encrypted using HTTPs).
+
+Active attacks like sniffing on unencrypted Wi-Fi networks or in combination with ARP
+spoofing on LANs.
+
+The social network APIs can be used to acquire data, which extends the available data of
+the web interface.
+
+Module 02 Page 212 Computer Hacking Forensic Investigator Copyright © by EC-Council
+
+All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator Exam 312-49
+Computer Forensics Investigation Process
+
+=" The easiest way to obtain data is to request the victim for his/her account's login
+credentials to start with the investigation.
+
+Tools to obtain information from different common social media websites:
+
+*" Social media data is enormous, therefore tools are required to efficiently and securely
+collect social media data.
+
+» Some of the popular tools include Netvizz, twecoll, divud, Digitalfootprints, Netlytic, X1
+Social Discovery, Facebook Forensic Software, H&A forensics, Geo360, Navigator by
+LifeRaft Social, Emotive, etc.
+
+Module 02 Page 213 Computer Hacking Forensic Investigator Copyright © by EC-Council
+All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator Exam 312-49
+
+Computer Forensics
+
+Investigation Process
+
+on how to Behave as
+
+an Investigator on Social Media
+
+The investigator may first require to be a licensed forensic investigator
+
+Investigators may obtain evidence from social media content
+without a warrant but must possess a justified reason
+
+Must abide with the privacy policy of the site
+Tools used for data collection need to fulfill ethical constraints
+Should abide with data protection laws of the particular country
+
+Need to secure data againstuse or disclosure beyond the investigation
+
+Be obvious to the extent consistent with the mission of the investigation
+
+Document the techniques or tools used to protect privacy
+
+Copyright © by All Rights Reserved. Reproductionis Strictly Prohibited.
+
+to Assess the
+
+Evidence
+
+Review the files’ names
+for relevance and patterns ~<
+
+Correlate the file headers to
+
+the corresponding file O
+
+extensions toldentify any | ‘ 4
+
+Review the time and
+
+the date stamp present Use a bit-wise copy of the original
+in the file system evidence for performing offline analysis
+metadata
+
+Analyze the physical and logical evidence
+for their value to the case
+
+Use a safe cabinet to secure the
+evidence
+
+— Examine network service logs for
+oy. any events of interest
+f a ‘
+J
+
+: \ ' Check large amount of host data, in
+mismatches \ 3 1 —~o which some portion might be related
+
+to the incident
+
+Search for content in the gathered files to find
+any files that are of interest
+
+Copyright © by All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Module 02 Page 214
+
+Computer Hacking Forensic Investigator Copyright © by EC-Council
+All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator Exam 312-49
+
+Computer Forensics Investigation Process
+
+Computer Forensics Investigation
+Methodology
+
+vA
+
+=
+
+Search and
+Seizure
+
+fa
+
+y
+
+Secure
+the Evidence
+
+Documentation
+and Reporting
+
+Copyright © by EG-Geanell. all Rights Reserved. Reproduction is StrictlyProhibited.
+
+Documenting is the process of writing all the actions the investigators have performed during
+the investigation to obtain the desired results. The investigators should maintain it in proper
+order and submit it in court during trial. This section will teach you the process of documenting
+
+and reporting.
+
+Computer Hacking Forensic Investigator Copyright © by EC-Council
+
+Module 02 Page 215
+All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator
+Computer Forensics Investigation Process
+
+Exam 312-49
+
+in Each
+
+Assessthe Data
+
+@ Aninitial estimate of the impact
+ofthe situation on the
+Organization's business
+
+@ Summaries of interviews with
+users and system administrators
+
+@ Outcomes ofany legal and
+third-party interactions
+
+@ Reportsand logs generated by
+tools used during the
+assessment phase
+
+@ Aproposed course of action
+
+Acquire the Data
+
+Create a check-in/check-out
+list that includes information
+such as the name of the
+person examining the
+evidence, the exactdate and
+time they check out the
+evidence and the exactdate
+
+and time they return it
+
+2
+
+Copyright © by
+
+joel”
+Analyze the Data
+
+Document the information
+regarding the number and
+
+type of operating system(s)
+Document the file’s content
+
+Document the result of
+correlation of files to the
+
+installed applications
+
+Document the user’s
+configuration settings
+
+3)
+
+All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Investigators need to document all the forensics processes applied to identify, gather, analyze,
+preserve, and report the evidence in order to offer a good report to a court of law and ease the
+
+prosecution.
+
+Module 02 Page 216
+
+Computer Hacking Forensic Investigator Copyright © by EC-Council
+
+All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator Exam 312-49
+Computer Forensics Investigation Process
+
+and
+
+Information
+
+Documentation in each phase should be identified as to
+whether it is appropriate to the investigation, and should
+
+be organized in specific categories.
+Following are the procedures for gathering and organizing
+Procedures the required documentation:
+
+© Gather all notes fromthe Assess, Acquire, and Analyze phases
+© Identify the parts of the documentation related to the investigation.
+
+© Identify the facts to be included in the report for supporting the
+conclusions
+
+© List all the evidence to submit with the report
+© List the conclusions that need to be in the report
+
+© Organize and classify the information gathered to create a concise
+and accurate report
+
+Copyright © by All Rights Reserved. Reproductions Strictly Prohibited.
+
+Identification:
+
+Investigators should identify if the documentation in each phase is appropriate to the
+investigation and should organize it in specific categories. This will ease the process of searching
+for a specific piece of evidence from the huge amount data.
+
+Module 02 Page 217 Computer Hacking Forensic Investigator Copyright © by EC-Council
+All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator Exam 312-49
+Computer Forensics Investigation Process
+
+Writing the Investigation
+Report
+
+@ Report writing is acrucial stage in the
+
+@ The report should be clear, concise, and written for the
+
+information included in the
+report section is:
+
+-
+Evidence
+Purpose of Report ae ] Provide descriptions of the evidence
+
+Clearly explain the objective of ‘. that was acquired during the
+the report, the target audience, investigation
+and why the report was prepared
+
+Incident Summary
+Author of Report Introduce the incident and explain its
+
+List all authors and co-authors of impact; the summary should explain (
+the report, including their positions, clearly what the incident was and “
+responsibilities during the investigation, how it occurred Sf
+
+and contact details
+
+Copyright © by EG-Geanell. all Rights Reserved. Reproduction is StrictlyProhibited.
+
+Report writing is a crucial stage in the outcome of the investigation, as it summarizes all the
+investigation process into a readable report, presented to a court of law. Based on the accuracy
+and certainty of this report, the court will prosecute the suspects.
+
+The report should be clear, concise, and written for the appropriate audience. The report
+should be in local language if necessary and have no jargons. It should include only include the
+data related to the case and the evidence. Every statement should have a supporting document
+or evidence.
+
+Information included in the report section is:
+
+Purpose of Report: Explain the objective of the report, the target audience, and the
+reason for preparing the report clearly. Mention how the evidence supports or denies
+the claims and provide sufficient backup to the statements.
+
+Author of Report: Include a list of all the authors and co-authors of the report, including
+their positions, responsibilities during the investigation, and their contact details.
+
+Incident Summary: Introduce the incident and explain its impact; the summary should
+explain clearly what the incident was and how it occurred.
+
+Evidence: Provide descriptions of the evidence acquired during the investigation,
+location, status during extraction, extraction procedure, analysis process, tools used,
+etc. Mention each detail clearly and in such a way that the process Is explicable to the
+people with less or no technical knowledge.
+
+Module 02 Page 218 Computer Hacking Forensic Investigator Copyright © by EC-Council
+
+All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator
+Computer Forensics Investigation Process
+
+Exam 312-49
+
+Writing the
+
+(Cont
+
+"d)
+
+Provide a detailed description of what evidence was analyzed and the analysis
+methods that were used, andalso explain the findings of the analysis
+
+List the procedures that were followed during the investigation and any
+analysis techniques that were used
+
+Include proof of yourfindings, such as utilityreportsand log entries
+
+6 Summarize theoutcome of the investigation
+
+8 Citespecificevidence to prove the conclusion
+
+@ The conclusion should bedear and unambiguous
+
+Supporting Documents
+
+Details
+
+Include any background information referred to throughout the report,
+such as network diagrams, documents that describe the computer
+investigation procedures used, and overviews of technologies that are
+involved in the investigation
+
+It is important that supporting documents provide enough information
+for the report readerto understand the incident comprehensively
+
+All Rights Reserved. Reproductionis Strictly Prohibited.
+
+Copyright © by
+
+Provide a detailed description of what evidence was analyzed and the analysis methods
+
+that were used and also explain the findings of the analysis.
+
+techniques that were used.
+
+Conclusion
+
+Supporting Documents
+
+List the procedures that were followed during the investigation and any analysis
+
+Include proof of your findings, such as utility reports and log entries.
+
+Summarize the outcome of the investigation.
+Cite specific evidence to prove the conclusion.
+
+The conclusion should be clear and unambiguous.
+
+Include any background information referred to throughout the report, such as network
+
+diagrams, documents that describe the computer investigation procedures used, and
+overviews of technologies that are involved in the investigation.
+
+It is important that supporting documents provide enough information for the reader to
+
+understand the incident as completely as possible.
+
+Module 02 Page 219
+
+Computer Hacking Forensic Investigator Copyright © by EC-Council
+All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator Exam 312-49
+Computer Forensics Investigation Process
+
+Computer Forensics Investigation
+Methodology
+
+14 = and
+Seizure
+
+y
+
+Secure
+the Evidence
+
+Documentation Testify as an
+and Reporting Expert Witness
+
+Copyright © by EG-Geanell. all Rights Reserved. Reproduction is StrictlyProhibited.
+
+As the attorney, prosecutors, and other panel present in a court of law may be unaware of the
+technical knowledge regarding the crime, evidence and losses, the investigators should
+approach authorized personnel who could appear in the court to affirm the accuracy of the
+process and the data.
+
+Module 02 Page 220 Computer Hacking Forensic Investigator Copyright © by EC-Council
+All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator Exam 312-49
+Computer Forensics Investigation Process
+
+2
+
+An expert witness is a person who has a thorough knowledge of a given subject,
+and whose credentials can convince others to believe in his or her opinionon that
+subject in a court of law
+
+Z
+
+Role of an '@ Role of an Expert Witness in )
+Expert Witness Bringing Evidence to Court
+
+Copyright © by . All Rights Reserved. Reproduction is Strictly Prohibited.
+
+An expert witness is a person who has a thorough knowledge of a subject and whose
+credentials can convince others to believe his or her opinions on that subject in a court of law.
+Courts call upon the expert witnesses to authenticate the facts and witnesses during any
+complex case. Cases involving accidents and deaths often need the help of an expert witness to
+verify the severity of injuries and mode of death. Whenever there is a case of probability in any
+criminal case that juries and attorneys cannot understand clearly, they call for the advice of an
+expert witness, who can clarify the facts and help the court come to a decision. Expert
+witnesses cross-examine witnesses and evidence, as a normal witness may influence or
+manipulate the truth under many other factors.
+
+The role of an expert witness is to:
+
+» Investigate acrime
+
+Evaluate the evidence
+
+*" Educate the public and court
+
+= Testify in court
+
+=" Conduct investigations on behalf of the court and report the findings back to the court
+
+= Participate in court-appointed expert witness conferences to study any intriguing
+incident
+
+= Educate the jury, court, and the individuals related to the case about his or her findings
+
+Module 02 Page 221 Computer Hacking Forensic Investigator Copyright © by EC-Council
+All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator Exam 312-49
+Computer Forensics Investigation Process
+
+The role of the expert witness in bringing evidence to court is to:
+» Assist the court in understanding intricate evidence
+» Aid the attorney in determining the truth
+
+# Truthfully express his or her expert opinion, irrespective of others’ views and influence
+
+Module 02 Page 222 Computer Hacking Forensic Investigator Copyright © by EC-Council
+All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator
+Computer Forensics Investigation Process
+
+Exam 312-49
+
+in the Court Room
+
+© Presenting digital evidence in the court requires knowledge of new, specialized, evolving,
+and sometimes complex technology
+
+Later, it is followed by the
+
+opposing counsel's cross -
+examination
+
+The attorney leads the expert
+witness through the evidence
+
+r Familiarization with the usual procedures
+| that are followed during a trial
+
+| The attorney introduces the
+expert witness
+
+Things that
+take place
+in the court
+
+| The opposing counsel may try to
+discredit the expert witness
+
+Copyright © by All Rights Reserved. Reproductionis Strictly Prohibited.
+
+An expert witness must keep certain factors in mind while testifying in court. The expert
+witness must have complete information about the usual procedures during a trial. He or she
+must never question the attorney regarding these matters. The attorney will first introduce the
+expert witness to the court. The witness will then offer his or her credentials and
+accomplishments to establish credibility with the jury. Presenting digital evidence to the court
+requires knowledge of new, specialized, evolving, and sometimes complex technology.
+
+The following things take place in a court room:
+» The judge explains the usual procedures followed during a trial
+# The attorney introduces the expert witness
+» The opposing counsel may try to discredit the expert witness
+» The attorney leads the expert witness through the evidence
+
+=» Later, the opposing counsel performs a cross-examination
+
+Module 02 Page 223
+
+Computer Hacking Forensic Investigator Copyright © by EC-Council
+
+All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator Exam 312-49
+Computer Forensics Investigation Process
+
+ir clude everything the investigator did durir IB
+hat he or she found -
+reports should include: who, what, when, where, and how
+ting investigation,the steps are repeatable and alw
+
+The report should explain the computerand network processes, and should include
+the log files generated by the forensics toolsto keep track ofall the steps taken
+
+Adpyright © by All Rights Rese ried: Reproduction is Strictly Probibited.
+
+After evidence analysis and retrieval, the investigator should prepare a final report, which
+should include what the investigator did and found. Basic reports should be able to answer
+questions like who, what, when, where, and how of the evidence. In a good computing
+investigation, the steps can be repeatable and the results obtained are the same throughout.
+The report should explain the computer and network processes and the inner working system.
+
+The investigator should document all the proceedings related to the investigation properly,
+which will help to use the report as proof of findings in a court of law. Since the reader can be a
+senior personnel manager, a lawyer, or a judge, explanation for various processes provide the
+inner workings of the system, and its various interrelated components.
+
+Each organization has its predefined template for report writing. Follow the template and
+understand the organization’s needs and requirements while describing the findings. Attach the
+log files generated by the forensic tool with the formal report, as they keep track of all the steps
+taken and support the findings of the evidence in court. The narrative part should precede the
+log in the report based on the fact finding.
+
+Module 02 Page 224 Computer Hacking Forensic Investigator Copyright © by EC-Council
+All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator Exam 312-49
+Computer Forensics Investigation Process
+
+Conduct
+
+~o Consider all available facts that relate to the crime scene
+
+finding in investigations
+
+‘o Ignore external biases to maintain the integrity of fact
+
+° Stay updated on the latest technical changes In computer
+; hardware and software, networking, and forensics tools
+
+Follow these criteria to maintain professional conduct:
+: § Credibility : Maintain objectivity and confidentiality
+* Ethics and morals * Enriched technical knowledge
+
+Copyright © by BG-Gemmell. All Rights Reserved. Reproduction is StrictlyProhibited.
+
+The rules that help you maintain professional conduct while investigating a case are:
+» Be trustworthy and honest.
+=" Contribute to society and behave well.
+» Avoid harming others.
+= Give appropriate credit for intellectual property.
+= Be fair and take action not to discriminate.
+= Respect the privacy of others.
+=" Honor confidentiality.
+*" Honor copyrights, property rights, and patent rights.
+#" Acquire and maintain professional competence.
+» Accept and provide appropriate professional review.
+=" Consider all the available facts that relate to the crime scene.
+
+=" Update software and computer hardware, networking, and forensic tools with the latest
+technical changes.
+
+=" Try to maintain quality, effectiveness, and dignity in the process and products of
+professional work.
+
+Module 02 Page 225 Computer Hacking Forensic Investigator Copyright © by EC-Council
+All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator Exam 312-49
+Computer Forensics Investigation Process
+
+=" Keep the case confidential.
+
+=" Honor agreements, contracts, and assigned responsibilities.
+
+=» Respect the existing laws pertaining to professional work.
+
+» Maintain the chain of custody.
+
+# Avoid external biases to maintain the integrity of fact-finding in all investigations.
+
+» Increase understanding of computers and the consequences of misusing them in public.
+» Access computing and communication resources only after getting permission.
+
+" Supervise personnel and resources in order to design and build information systems
+that improve the quality of working life.
+
+=" Support and acknowledge proper and authorized users of an organization’s computing
+and communication resources.
+
+=" Conduct sessions in the organization to advise about the principles and limitations of
+computer systems.
+
+Module 02 Page 226 Computer Hacking Forensic Investigator Copyright © by EC-Council
+All Rights Reserved. Reproduction is Strictly Prohibited.
+
+Computer Hacking Forensic Investigator Exam 312-49
+Computer Forensics Investigation Process
+
+Pre-investi , Investigation Pha 1 Post-investigation Phase. r ies
+O) ACFLisa location designated for conducting a computer-based investigation on the collected evidence
+
+L) Asearch warrantis a written order issued by a judge that directs a law enforcement officer to search fora
+particular piece of evidence at a particular location
+
+L) Make a duplicate of the collected data so as to preserve the original
+
+L) To preserve the integrity of the physicalevidence, all the pieces of evidence collected should be handled
+carefully
+
+L) Adigital evidence must be stored in a container, which must be secured to prevent unauthorized access
+
+() Select appropriate resources for finding evidence, and do not perform any operation on the incident system
+that could change or delete possible evidence
+
+LJ Documentation of the electronic crime scene is a continuous process during the investigation that creates a
+permanent record of the scene
+
+LJ Final report should include everything the investigator did during the course of the investigation,
+and what he or she found — _ _—
+
+Copyright © by All Rights Reserved, Reproduction is Stricth Prohibited,
+
+This module discussed the phases involved in the Computer Forensics Investigation Process,
+described how a computer forensics lab should be laid out, the search warrant, and duplication
+of data to preserve the original. The module discussed the role of a first responder, planning
+search and seizure, chain of custody, and the process of recovering lost data. Additionally, the
+module described the evidence acquisition and analysis process, documentation, and the
+process of creating a report.
+
+Module 02 Page 227 Computer Hacking Forensic Investigator Copyright © by EC-Council
+All Rights Reserved. Reproduction is Strictly Prohibited.
