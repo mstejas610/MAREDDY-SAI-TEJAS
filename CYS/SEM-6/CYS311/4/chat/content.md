@@ -403,7 +403,7 @@ Investigators should use **certified forensic tools** that meet **industry and l
 
 ---
 
-Here is the next portion of the extracted text:  
+ the next portion of the extracted text:  
 
 ---
 
@@ -576,7 +576,7 @@ Forensic investigators must adhere to **legal guidelines** to ensure that eviden
 ---
 
 By following these guidelines, forensic investigators can ensure that digital evidence remains **legally admissible, forensically sound, and scientifically verifiable**.  
-Here is the next portion of the extracted text:  
+ the next portion of the extracted text:  
 
 ---
 
