@@ -55,8 +55,6 @@ Forensic data acquisition is a process of imaging or collecting information from
 - Verify accuracy and integrity of acquired data.  
 - The acquisition process should be auditable and acceptable in court.  
 
----
-Here is the next portion of the extracted text:
 
 ---
 
@@ -109,8 +107,6 @@ To prevent these risks, forensic investigators should:
 - Document every step of the acquisition process.  
 - Avoid performing unnecessary actions on the suspect system.  
 
----
-Here is the next portion of the extracted text:  
 
 ---
 
@@ -157,8 +153,6 @@ Creating a forensic duplicate ensures that investigators do not alter the origin
 
 A forensic image ensures investigators can always go back to the original data without risking evidence contamination.  
 
----
-Here is the next portion of the extracted text:  
 
 ---
 
@@ -238,8 +232,6 @@ To ensure a legally defensible forensic process, investigators should follow the
 7. **Plan for Contingencies**  
    - Always have a backup plan in case of system failures during acquisition.  
 
----
-Here is the next portion of the extracted text:  
 
 ---
 
@@ -325,8 +317,7 @@ Investigators must choose an appropriate format for storing acquired forensic da
 
 Each format has advantages and drawbacks. **Raw and AFF formats are preferred** for forensic investigations due to their **universality and reliability**.  
 
----
-Here is the next portion of the extracted text:  
+
 
 ---
 
@@ -502,8 +493,7 @@ Each tool has unique capabilities. Investigators should select tools **based on 
 
 Forensic investigators should use a **combination of hardware and software tools** to ensure a **thorough and legally defensible** data acquisition process.  
 
----
-Here is the next portion of the extracted text:  
+  
 
 ---
 
