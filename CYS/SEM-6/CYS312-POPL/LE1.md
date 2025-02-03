@@ -7,6 +7,7 @@ Set 1 - Categorize Age & Student Score Management System
 
 1. Categorize Age Function
 
+```
 categorizeAge :: Int -> String
 categorizeAge age
     | age < 0   = "Invalid"
@@ -21,12 +22,12 @@ main = do
     ageInput <- getLine
     let age = read ageInput :: Int
     putStrLn ("The person is categorized as: " ++ categorizeAge age)
-
-
+```
 ---
 
 2. Student Score Management System
 
+```
 import System.IO (hFlush, stdout)
 
 manageScores :: [Int] -> IO ()
@@ -64,7 +65,7 @@ manageScores scores = do
 
 main :: IO ()
 main = manageScores []
-
+```
 
 ---
 
@@ -72,6 +73,7 @@ Set 2 - Triangle Type & Shopping Cart System
 
 1. Triangle Type Function
 
+```
 triangleType :: (Int, Int, Int) -> String
 triangleType (a, b, c)
     | a + b <= c || a + c <= b || b + c <= a = "Not a valid triangle"
@@ -95,11 +97,12 @@ main = do
 
     putStrLn ("The triangle is classified as: " ++ triangleType (a, b, c))
 
-
+```
 ---
 
 2. Shopping Cart Management System
 
+```
 import System.IO (hFlush, stdout)
 
 type Item = (String, Int)
@@ -129,4 +132,4 @@ shoppingCart cart = do
         "2" -> do
             putStrLn "Items in Cart:"
             mapM_ (
-
+```
