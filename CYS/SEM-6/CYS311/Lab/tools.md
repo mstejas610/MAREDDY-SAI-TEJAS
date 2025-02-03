@@ -18,4 +18,15 @@ The assignments involve various cyber forensics tools used for data recovery, fi
 - **FTK Imager** – A forensic tool for creating, analyzing, and verifying disk images.  
 - **IMG Dump & Mounting Tools** – Used for handling raw image files, mounting them, and modifying partitions.  
 
+
+4. PDF 4: Cyber Forensics Lab 04
+Passware Kit – Used for cracking passwords of various files and applications.
+Advanced Archive Password Recovery – Recovers lost passwords for compressed archive files (ZIP, RAR, etc.).
+Advanced PDF Password Recovery – Recovers or removes passwords from PDF documents.
+StegSpy – Detects hidden messages in images using steganography techniques.
+Image Steganography Tool – Decodes hidden messages from image files.
+OpenStego – Extracts embedded data from steganographic images.
+DeepSound – A tool for extracting hidden data from audio files.
+These tools focus on password recovery and steganography detection, adding capabilities for analyzing encrypted or hidden data. Let me know if you need more details!
+
 These tools are widely used in cyber forensics to investigate data recovery, digital evidence, and file system integrity. Let me know if you need details about any specific tool!
