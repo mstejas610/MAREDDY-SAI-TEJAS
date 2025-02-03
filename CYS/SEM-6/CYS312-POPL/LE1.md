@@ -1,11 +1,6 @@
-Here are the basic Haskell programs for the given tasks without using any external packages or switch-case-like structures.
+### Set 1 - Categorize Age & Student Score Management System
 
-
----
-
-Set 1 - Categorize Age & Student Score Management System
-
-1. Categorize Age Function
+#### 1. Categorize Age Function
 
 ```
 categorizeAge :: Int -> String
@@ -25,7 +20,7 @@ main = do
 ```
 ---
 
-2. Student Score Management System
+#### 2. Student Score Management System
 
 ```
 import System.IO (hFlush, stdout)
@@ -69,9 +64,9 @@ main = manageScores []
 
 ---
 
-Set 2 - Triangle Type & Shopping Cart System
+### Set 2 - Triangle Type & Shopping Cart System
 
-1. Triangle Type Function
+#### 1. Triangle Type Function
 
 ```
 triangleType :: (Int, Int, Int) -> String
@@ -100,7 +95,7 @@ main = do
 ```
 ---
 
-2. Shopping Cart Management System
+#### 2. Shopping Cart Management System
 
 ```
 import System.IO (hFlush, stdout)
