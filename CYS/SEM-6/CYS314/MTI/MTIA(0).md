@@ -112,16 +112,6 @@ Z_{AB} = g^{x_A r_B + x_B r_A} \mod p
 | 4 | \( B \) computes \( Z_{AB} = g^{x_B r_A + x_A r_B} \). |
 | 5 | \( A \) and \( B \) share the same secret key \( Z_{AB} \). |
 
-### **Advantages**
-✅ Simple and efficient (only requires **two messages**).  
-✅ Provides **implicit key authentication**.  
-✅ Offers **forward secrecy**.  
-
-### **Disadvantages**
-❌ No **explicit key confirmation** → susceptible to active attacks.  
-❌ Vulnerable to **key-compromise impersonation (KCI) attacks**.  
-❌ Still requires additional steps for real-world security (e.g., message authentication codes, digital signatures).  
-
 ---
 
 ## **Conclusion**
